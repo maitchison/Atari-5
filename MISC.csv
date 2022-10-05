@@ -1,0 +1,289 @@
+Algorithm,Score,Extra Training Data,Paper title,Date,Game
+MuZero (Res2 Adam),171673,False,,2021-04-13,riverraid
+Advantage Learning,-4.15,False,,,surround
+Persistent AL,0.72,False,,,surround
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Random,227.75,,,,alien
+Random,5.77,,,,amidar
+Random,222.39,,,,assault
+Random,210,,,,asterix
+Random,719.1,,,,asteroids
+Random,12850,,,,atlantis
+Random,14.2,,,,bank heist
+Random,2360,,,,battle zone
+Random,363.88,,,,beam rider
+Random,123.65,,,,berzerk
+Random,23.11,,,,bowling
+Random,0.05,,,,boxing
+Random,1.72,,,,breakout
+Random,2090.87,,,,centipede
+Random,811,,,,chopper command
+Random,10780.5,,,,crazy climber
+Random,2874.5,,,,defender
+Random,152.07,,,,demon attack
+Random,-18.55,,,,double dunk
+Random,0,,,,enduro
+Random,-91.71,,,,fishing derby
+Random,0.01,,,,freeway
+Random,65.2,,,,frostbite
+Random,257.6,,,,gopher
+Random,173,,,,gravitar
+Random,1026.97,,,,hero
+Random,-11.15,,,,ice hockey
+Random,29,,,,James bond
+Random,52,,,,kangaroo
+Random,1598.05,,,,krull
+Random,258.5,,,,kung fu master
+Random,0,,,,montezuma revenge
+Random,307.3,,,,ms pacman
+Random,2292.35,,,,name this game
+Random,761.4,,,,phoenix
+Random,-229.44,,,,pitfall
+Random,-20.71,,,,pong
+Random,24.94,,,,private eye
+Random,163.88,,,,qbert
+Random,1338.5,,,,riverraid
+Random,11.5,,,,road runner
+Random,2.16,,,,robotank
+Random,68.4,,,,seaquest
+Random,-17098.09,,,,skiing
+Random,1236.3,,,,solaris
+Random,148.3,,,,space invaders
+Random,664,,,,star gunner
+Random,-23.84,,,,tennis
+Random,3568,,,,time pilot
+Random,11.43,,,,tutankham
+Random,533.4,,,,up n down
+Random,0,,,,venture
+Random,0,,,,video pinball
+Random,563.5,,,,wizard of wor
+Random,3092.91,,,,yars revenge
+Random,32.5,,,,zaxxon
+Random,-9.99,,,,surround
+Human,7127.7,,,,alien
+Human,1719.5,,,,amidar
+Human,742,,,,assault
+Human,8503.3,,,,asterix
+Human,47388.7,,,,asteroids
+Human,29028.1,,,,atlantis
+Human,753.1,,,,bank heist
+Human,37187.5,,,,battle zone
+Human,16926.5,,,,beam rider
+Human,2630.4,,,,berzerk
+Human,160.7,,,,bowling
+Human,12.1,,,,boxing
+Human,30.5,,,,breakout
+Human,12017,,,,centipede
+Human,7387.8,,,,chopper command
+Human,35829.4,,,,crazy climber
+Human,18688.9,,,,defender
+Human,1971,,,,demon attack
+Human,-16.4,,,,double dunk
+Human,860.5,,,,enduro
+Human,-38.7,,,,fishing derby
+Human,29.6,,,,freeway
+Human,4334.7,,,,frostbite
+Human,2412.5,,,,gopher
+Human,3351.4,,,,gravitar
+Human,30826.4,,,,hero
+Human,0.9,,,,ice hockey
+Human,302.8,,,,James bond
+Human,3035,,,,kangaroo
+Human,2665.5,,,,krull
+Human,22736.3,,,,kung fu master
+Human,4753.3,,,,montezuma revenge
+Human,6951.6,,,,ms pacman
+Human,8049,,,,name this game
+Human,7242.6,,,,phoenix
+Human,6463.7,,,,pitfall
+Human,14.6,,,,pong
+Human,69571.3,,,,private eye
+Human,13455,,,,qbert
+Human,17118,,,,riverraid
+Human,7845,,,,road runner
+Human,11.9,,,,robotank
+Human,42054.7,,,,seaquest
+Human,-4336.9,,,,skiing
+Human,12326.7,,,,solaris
+Human,1668.7,,,,space invaders
+Human,10250,,,,star gunner
+Human,-8.3,,,,tennis
+Human,5229.2,,,,time pilot
+Human,167.6,,,,tutankham
+Human,11693.2,,,,up n down
+Human,1187.5,,,,venture
+Human,17667.9,,,,video pinball
+Human,4756.5,,,,wizard of wor
+Human,54576.9,,,,yars revenge
+Human,9173.3,,,,zaxxon
+Human,6.53,,,,surround

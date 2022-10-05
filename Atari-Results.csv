@@ -1,0 +1,2165 @@
+Algorithm,Score,Extra Training Data,Paper title,Date,Game
+Agent57,580328.14,False,,2020-03-30,qbert
+QR-DQN-1,572510,False,,2017-10-27,qbert
+R2D2,408850.0,False,,2019-05-01,qbert
+IMPALA (deep),351200.12,False,,2018-02-05,qbert
+Ape-X,302391.3,False,,2018-03-02,qbert
+A2C + SIL,104975.6,False,,2018-06-14,qbert
+MuZero (Res2 Adam),94906.25,False,,2021-04-13,qbert
+MuZero,72276.00,False,,2019-11-19,qbert
+DreamerV2,42653,False,,2020-10-05,qbert
+NoisyNet-Dueling,27121,False,,2017-06-30,qbert
+IQN,25750,False,,2018-06-14,qbert
+C51 noop,23784,False,,2017-07-21,qbert
+A3C LSTM hs,21307.5,False,,2016-02-04,qbert
+Duel noop,19220.3,False,,2015-11-20,qbert
+Prior+Duel noop,18760.3,False,,2015-11-20,qbert
+UCT,17343.4,False,,2012-07-19,qbert
+Prior noop,16256.5,False,,2015-11-18,qbert
+MP-EB,15805,False,,2015-07-03,qbert
+POP3D,15396.67,False,,2018-07-02,qbert
+A3C FF hs,15148.8,False,,2016-02-04,qbert
+Bootstrapped DQN,15092.7,False,,2016-02-15,qbert
+DDQN (tuned) noop,15088.5,False,,2015-11-20,qbert
+VPN,14517,False,,2017-07-11,qbert
+Rational DQN Average,14436,False,,2021-02-18,qbert
+Advantage Learning,14368.03,False,,2015-12-15,qbert
+Duel hs,14175.8,False,,2015-11-20,qbert
+MFEC,14135,False,,2020-08-21,qbert
+Recurrent Rational DQN Average,14080,False,,2021-02-18,qbert
+Prior+Duel hs,14063,False,,2015-09-22,qbert
+A3C FF (1 day) hs,13752.3,False,,2016-02-04,qbert
+DQN noop,13117.3,False,,2015-09-22,qbert
+DDQN (tuned) hs,11020.8,False,,2015-09-22,qbert
+Nature DQN,10596,False,,,qbert
+Prior hs,9944,False,,2015-11-18,qbert
+DQN hs,9271.5,False,,2015-09-22,qbert
+Gorila,7089.8,False,,2015-07-15,qbert
+DDQN+Pop-Art noop,5236.8,False,,2016-02-24,qbert
+DQN Best,4500,False,,2013-12-19,qbert
+Qbert Rainbow+SEER,4123.5,False,,2021-03-04,qbert
+Sarsa-φ-EB,4111.8,False,,2017-06-25,qbert
+Sarsa-ε,3895.3,False,,2017-06-25,qbert
+IDVQ + DRSC + XNES,1250,False,,2018-06-04,qbert
+CURL,1225.6,False,,2020-04-08,qbert
+SARSA,960.3,False,,,qbert
+CGP,770,False,,2018-06-14,qbert
+Best Learner,613.5,False,,2012-07-19,qbert
+SAC,280.5,False,,2019-10-16,qbert
+MAC,243.4,False,,2017-09-01,qbert
+ES FF (1 hour) noop,147.5,False,,2017-03-10,qbert
+MuZero,157177.85,False,,2019-11-19,name this game
+MuZero (Res2 Adam),101197.71,False,,2021-04-13,name this game
+R2D2,58182.7,False,,2019-05-01,name this game
+Agent57,54386.77,False,,2020-03-30,name this game
+Ape-X,25783.3,False,,2018-03-02,name this game
+IQN,22682,False,,2018-06-14,name this game
+QR-DQN-1,21890,False,,2017-10-27,name this game
+IMPALA (deep),21537.20,False,,2018-02-05,name this game
+DDQN+Pop-Art noop,15851.2,False,,2016-02-24,name this game
+Prior+Duel noop,15572.5,False,,2015-11-20,name this game
+UCT,15410,False,,2012-07-19,name this game
+A2C + SIL,14958.2,False,,2018-06-14,name this game
+Prior+Duel hs,13637.9,False,,2015-09-22,name this game
+C51 noop,12542.0,False,,2017-07-21,name this game
+DreamerV2,12378,False,,2020-10-05,name this game
+Prior noop,12270.5,False,,2015-11-18,name this game
+NoisyNet-Dueling,12211,False,,2017-06-30,name this game
+A3C LSTM hs,12093.7,False,,2016-02-04,name this game
+Duel noop,11971.1,False,,2015-11-20,name this game
+Bootstrapped DQN,11501.1,False,,2016-02-15,name this game
+Duel hs,11185.1,False,,2015-11-20,name this game
+Advantage Learning,11025.26,False,,2015-12-15,name this game
+DDQN (tuned) noop,10616.0,False,,2015-11-20,name this game
+Prior hs,10497.6,False,,2015-11-18,name this game
+A3C FF hs,10476.1,False,,2016-02-04,name this game
+Persistent AL,10431.33,False,,2015-12-15,name this game
+Gorila,9238.5,False,,2015-07-15,name this game
+DDQN (tuned) hs,8960.3,False,,2015-09-22,name this game
+DQN noop,8207.8,False,,2015-09-22,name this game
+Nature DQN,7257.0,False,,,name this game
+DQN hs,6738.8,False,,2015-09-22,name this game
+POP3D,6065.63,False,,2018-07-02,name this game
+A3C FF (1 day) hs,5614.0,False,,2016-02-04,name this game
+ES FF (1 hour) noop,4503.0,False,,2017-03-10,name this game
+CGP,3696,False,,2018-06-14,name this game
+Best Learner,2500.1,False,,2012-07-19,name this game
+SARSA,2247.0,False,,,name this game
+IDVQ + DRSC + XNES,920,False,,2018-06-04,name this game
+MuZero,454993.53,False,,2019-11-19,beam rider
+MuZero (Res2 Adam),333077.44,False,,2021-04-13,beam rider
+Agent57,300509.8,False,,2020-03-30,beam rider
+R2D2,188257.4,False,,2019-05-01,beam rider
+Ape-X,63305.2,False,,2018-03-02,beam rider
+IQN,42776,False,,2018-06-14,beam rider
+Prior+Duel hs,37412.2,False,,2015-09-22,beam rider
+QR-DQN-1,34821,False,,2017-10-27,beam rider
+IMPALA (deep),32463.47,False,,2018-02-05,beam rider
+Prior hs,31181.3,False,,2015-11-18,beam rider
+Prior+Duel noop,30276.5,False,,2015-11-20,beam rider
+A3C LSTM hs,24622.2,False,,2016-02-04,beam rider
+Bootstrapped DQN,23429.8,False,,2016-02-15,beam rider
+Prior noop,23384.2,False,,2015-11-18,beam rider
+NoisyNet-Dueling,23134,False,,2017-06-30,beam rider
+A3C FF hs,22707.9,False,,2016-02-04,beam rider
+DDQN (tuned) hs,17417.2,False,,2015-09-22,beam rider
+DDRL A3C,14900,False,,2018-01-09,beam rider
+Duel hs,14591.3,False,,2015-11-20,beam rider
+C51 noop,14074.0,False,,2017-07-21,beam rider
+DDQN (tuned) noop,13772.8,False,,2015-11-20,beam rider
+A3C FF (1 day) hs,13235.9,False,,2016-02-04,beam rider
+Persistent AL,13145.34,False,,2015-12-15,beam rider
+Duel noop,12164.0,False,,2015-11-20,beam rider
+Reactor 500M,11033.4,False,,2017-04-15,beam rider
+DreamerV2,10193,False,,2020-10-05,beam rider
+Advantage Learning,10054.58,False,,2015-12-15,beam rider
+DQN hs,9743.2,False,,2015-09-22,beam rider
+DQN noop,8627.5,False,,2015-09-22,beam rider
+DDQN+Pop-Art noop,8299.4,False,,2016-02-24,beam rider
+Nature DQN,6846.0,False,,,beam rider
+UCT,6624.6,False,,2012-07-19,beam rider
+MAC,6072,False,,2017-09-01,beam rider
+RIMs-PPO,5320,False,,,beam rider
+DQN Best,5184,False,,2013-12-19,beam rider
+POP3D,4549,False,,2018-07-02,beam rider
+Gorila,3822.1,False,,2015-07-15,beam rider
+A2C + SIL,2366.2,False,,2018-06-14,beam rider
+SARSA,1743.0,False,,,beam rider
+CGP,1341.6,False,,2018-06-14,beam rider
+Best Learner,929.4,False,,2012-07-19,beam rider
+ES FF (1 hour) noop,744.0,False,,2017-03-10,beam rider
+SAC,432.1,False,,2019-10-16,beam rider
+MuZero,130345.58,False,,2019-11-19,gopher
+R2D2,124776.3,False,,2019-05-01,gopher
+MuZero (Res2 Adam),122882.5,False,,2021-04-13,gopher
+Ape-X,120500.9,False,,2018-03-02,gopher
+IQN,118365,False,,2018-06-14,gopher
+Agent57,117777.08,False,,2020-03-30,gopher
+QR-DQN-1,113585,False,,2017-10-27,gopher
+Prior+Duel hs,105148.4,False,,2015-09-22,gopher
+Prior+Duel noop,104368.2,False,,2015-11-20,gopher
+IMPALA (deep),66782.30,False,,2018-02-05,gopher
+DDQN+Pop-Art noop,56218.2,False,,2016-02-24,gopher
+NoisyNet-Dueling,38909,False,,2017-06-30,gopher
+Prior hs,34858.8,False,,2015-11-18,gopher
+C51 noop,33641.0,False,,2017-07-21,gopher
+Prior noop,32487.2,False,,2015-11-18,gopher
+DreamerV2,30535,False,,2020-10-05,gopher
+A2C + SIL,23304.2,False,,2018-06-14,gopher
+UCT,20560,False,,2012-07-19,gopher
+Duel hs,20051.4,False,,2015-11-20,gopher
+Bootstrapped DQN,17438.4,False,,2016-02-15,gopher
+A3C LSTM hs,17106.8,False,,2016-02-04,gopher
+Duel noop,15718.4,False,,2015-11-20,gopher
+DDQN (tuned) hs,15253.0,False,,2015-09-22,gopher
+DDQN (tuned) noop,14840.8,False,,2015-11-20,gopher
+Advantage Learning,11912.68,False,,2015-12-15,gopher
+Persistent AL,10611.81,False,,2015-12-15,gopher
+A3C FF hs,10022.8,False,,2016-02-04,gopher
+DQN noop,8777.4,False,,2015-09-22,gopher
+Nature DQN,8520.0,False,,,gopher
+A3C FF (1 day) hs,8442.8,False,,2016-02-04,gopher
+DQN hs,8190.4,False,,2015-09-22,gopher
+POP3D,6207,False,,2018-07-02,gopher
+DARQN soft,5356,False,,2015-12-05,gopher
+Gorila,4373.0,False,,2015-07-15,gopher
+SARSA,2368.0,False,,,gopher
+CGP,1696,False,,2018-06-14,gopher
+Best Learner,1288.3,False,,2012-07-19,gopher
+CURL,801.4,False,,2020-04-08,gopher
+ES FF (1 hour) noop,582.0,False,,2017-03-10,gopher
+R2D2,999383.2,False,,2019-05-01,video pinball
+Agent57,992340.74,False,,2020-03-30,video pinball
+MuZero,981791.88,False,,2019-11-19,video pinball
+C51 noop,949604.0,False,,2017-07-21,video pinball
+NoisyNet-Dueling,870954,False,,2017-06-30,video pinball
+MuZero (Res2 Adam),865543.44,False,,2021-04-13,video pinball
+Bootstrapped DQN,811610,False,,2016-02-15,video pinball
+QR-DQN-1,705662,False,,2017-10-27,video pinball
+IQN,698045,False,,2018-06-14,video pinball
+IMPALA (deep),572898.27,False,,2018-02-05,video pinball
+Ape-X,565163.2,False,,2018-03-02,video pinball
+Advantage Learning,543504,False,,2015-12-15,video pinball
+Prior+Duel noop,479197.0,False,,2015-11-20,video pinball
+A3C LSTM hs,470310.5,False,,2016-02-04,video pinball
+A2C + SIL,461522.4,False,,2018-06-14,video pinball
+Prior+Duel hs,447408.6,False,,2015-09-22,video pinball
+DDQN (tuned) hs,367823.7,False,,2015-09-22,video pinball
+A3C FF hs,331628.1,False,,2016-02-04,video pinball
+DDQN (tuned) noop,309941.9,False,,2015-11-20,video pinball
+Prior hs,295972.8,False,,2015-11-18,video pinball
+Prior noop,282007.3,False,,2015-11-18,video pinball
+UCT,254748,False,,2012-07-19,video pinball
+DQN noop,196760.4,False,,2015-09-22,video pinball
+A3C FF (1 day) hs,185852.6,False,,2016-02-04,video pinball
+DQN hs,154414.1,False,,2015-09-22,video pinball
+Rational DQN Average,149712,False,,2021-02-18,video pinball
+Gorila,112093.4,False,,2015-07-15,video pinball
+Duel hs,110976.2,False,,2015-11-20,video pinball
+Duel noop,98209.5,False,,2015-11-20,video pinball
+Recurrent Rational DQN Average,86942,False,,2021-02-18,video pinball
+DDQN+Pop-Art noop,56287.0,False,,2016-02-24,video pinball
+Nature DQN,42684.0,False,,,video pinball
+POP3D,37780.7,False,,2018-07-02,video pinball
+CGP,33752.4,False,,2018-06-14,video pinball
+ES FF (1 hour) noop,22834.8,False,,2017-03-10,video pinball
+SARSA,19761.0,False,,,video pinball
+Best Learner,16871.3,False,,2012-07-19,video pinball
+DreamerV2,4386,False,,2020-10-05,video pinball
+UCT,24,False,,2012-07-19,double dunk
+MuZero,23.94,False,,2019-11-19,double dunk
+Agent57,23.93,False,,2020-03-30,double dunk
+MuZero (Res2 Adam),23.91,False,,2021-04-13,double dunk
+R2D2,23.7,False,,2019-05-01,double dunk
+Ape-X,23.5,False,,2018-03-02,double dunk
+Reactor 500M,23.0,False,,2017-04-15,double dunk
+DreamerV2,22,False,,2020-10-05,double dunk
+QR-DQN-1,21.9,False,,2017-10-27,double dunk
+A2C + SIL,21.5,False,,2018-06-14,double dunk
+Prior noop,18.5,False,,2015-11-18,double dunk
+Prior hs,16.0,False,,2015-11-18,double dunk
+IQN,5.6,False,,2018-06-14,double dunk
+Bootstrapped DQN,3,False,,2016-02-15,double dunk
+C51 noop,2.5,False,,2017-07-21,double dunk
+CGP,2,False,,2018-06-14,double dunk
+NoisyNet-Dueling,1,False,,2017-06-30,double dunk
+ES FF (1 hour) noop,0.2,False,,2017-03-10,double dunk
+Duel noop,0.1,False,,2015-11-20,double dunk
+A3C FF (1 day) hs,0.1,False,,2016-02-04,double dunk
+A3C LSTM hs,0.1,False,,2016-02-04,double dunk
+SARSA,-16.0,False,,,double dunk
+Nature DQN,-18.1,False,,,double dunk
+Gorila,-11.3,False,,2015-07-15,double dunk
+DQN hs,-6.0,False,,2015-09-22,double dunk
+DQN noop,-6.6,False,,2015-09-22,double dunk
+Duel hs,-0.8,False,,2015-11-20,double dunk
+DDQN (tuned) noop,-5.5,False,,2015-11-20,double dunk
+DDQN (tuned) hs,-0.3,False,,2015-09-22,double dunk
+Prior+Duel hs,-10.7,False,,2015-09-22,double dunk
+DDQN+Pop-Art noop,-11.5,False,,2016-02-24,double dunk
+Prior+Duel noop,-12.5,False,,2015-11-20,double dunk
+A3C FF hs,-0.1,False,,2016-02-04,double dunk
+IMPALA (deep),-0.33,False,,2018-02-05,double dunk
+Advantage Learning,-0.15,False,,2015-12-15,double dunk
+Persistent AL,-2.51,False,,2015-12-15,double dunk
+POP3D,-7.89,False,,2018-07-02,double dunk
+Best Learner,-13.1,False,,2012-07-19,double dunk
+MuZero,131.13,False,,2019-11-19,robotank
+Agent57,127.32,False,,2020-03-30,robotank
+MuZero (Res2 Adam),100.59,False,,2021-04-13,robotank
+R2D2,100.4,False,,2019-05-01,robotank
+FQF,75.7,False,,2019-11-05,robotank
+Ape-X,73.8,False,,2018-03-02,robotank
+Advantage Learning,69.31,False,,2015-12-15,robotank
+Bootstrapped DQN,66.6,False,,2016-02-15,robotank
+Duel noop,65.3,False,,2015-11-20,robotank
+DDQN (tuned) noop,65.1,False,,2015-11-20,robotank
+DDQN+Pop-Art noop,64.3,False,,2016-02-24,robotank
+NoisyNet-Dueling,64,False,,2017-06-30,robotank
+DQN noop,63.9,False,,2015-09-22,robotank
+Prior noop,62.6,False,,2015-11-18,robotank
+IQN,62.5,False,,2018-06-14,robotank
+Duel hs,62.0,False,,2015-11-20,robotank
+Gorila,61.8,False,,2015-07-15,robotank
+QR-DQN-1,59.4,False,,2017-10-27,robotank
+DDQN (tuned) hs,59.1,False,,2015-09-22,robotank
+DQN hs,58.7,False,,2015-09-22,robotank
+Prior hs,56.2,False,,2015-11-18,robotank
+DreamerV2,56,False,,2020-10-05,robotank
+C51 noop,52.3,False,,2017-07-21,robotank
+Nature DQN,51.6,False,,,robotank
+UCT,50.4,False,,2012-07-19,robotank
+A3C FF hs,32.8,False,,2016-02-04,robotank
+Best Learner,28.7,False,,2012-07-19,robotank
+Prior+Duel noop,27.5,False,,2015-11-20,robotank
+Prior+Duel hs,24.7,False,,2015-09-22,robotank
+CGP,24.2,False,,2018-06-14,robotank
+IMPALA (deep),12.96,False,,2018-02-05,robotank
+SARSA,12.4,False,,,robotank
+ES FF (1 hour) noop,11.9,False,,2017-03-10,robotank
+A2C + SIL,10.5,False,,2018-06-14,robotank
+POP3D,4.6,False,,2018-07-02,robotank
+A3C LSTM hs,2.6,False,,2016-02-04,robotank
+A3C FF (1 day) hs,2.3,False,,2016-02-04,robotank
+Agent57,114736.26,False,,2020-03-30,hero
+MuZero,49244.11,False,,2019-11-19,hero
+R2D2,39537.1,False,,2019-05-01,hero
+C51 noop,38874,False,,2017-07-21,hero
+MuZero (Res2 Adam),37234.31,False,,2021-04-13,hero
+IMPALA (deep),33730.55,False,,2018-02-05,hero
+A2C + SIL,33156.7,False,,2018-06-14,hero
+A3C FF hs,32464.1,False,,2016-02-04,hero
+Ape-X,31655.9,False,,2018-03-02,hero
+NoisyNet-Dueling,31533,False,,2017-06-30,hero
+FQF,30926.2,False,,2019-11-05,hero
+A3C LSTM hs,28889.5,False,,2016-02-04,hero
+A3C FF (1 day) hs,28765.8,False,,2016-02-04,hero
+IQN,28386,False,,2018-06-14,hero
+Advantage Learning,24788.86,False,,2015-12-15,hero
+Persistent AL,24175.79,False,,2015-12-15,hero
+Prior noop,23037.7,False,,2015-11-18,hero
+DreamerV2,22744,False,,2020-10-05,hero
+QR-DQN-1,21395,False,,2017-10-27,hero
+Prior+Duel noop,21036.5,False,,2015-11-20,hero
+Bootstrapped DQN,21021.3,False,,2016-02-15,hero
+Prior hs,20889.9,False,,2015-11-18,hero
+Duel noop,20818.2,False,,2015-11-20,hero
+DQN noop,20437.8,False,,2015-09-22,hero
+DDQN (tuned) noop,20130.2,False,,2015-11-20,hero
+Nature DQN,19950,False,,,hero
+Prior+Duel hs,15459.2,False,,2015-09-22,hero
+Duel hs,15207.9,False,,2015-11-20,hero
+DQN hs,14992.9,False,,2015-09-22,hero
+DDQN (tuned) hs,14892.5,False,,2015-09-22,hero
+DDQN+Pop-Art noop,14225.2,False,,2016-02-24,hero
+UCT,12859.5,False,,2012-07-19,hero
+MFEC,11732,False,,2020-08-21,hero
+Gorila,8963.4,False,,2015-07-15,hero
+SARSA,7295,False,,,hero
+Best linear,6459,False,,2012-07-19,hero
+Best Learner,6458.8,False,,2012-07-19,hero
+CURL,6235.1,False,,2020-04-08,hero
+CGP,2974,False,,2018-06-14,hero
+Go-Explore,107363,False,,2019-01-30,pitfall
+Agent57,18756.01,False,,2020-03-30,pitfall
+Go-Explore,6954,False,,2020-04-27,pitfall
+IQN,0,False,,2018-06-14,pitfall
+MuZero,0.00,False,,2019-11-19,pitfall
+R2D2,0.0,False,,2019-05-01,pitfall
+CGP,0,False,,2018-06-14,pitfall
+NoisyNet-Dueling,0,False,,2017-06-30,pitfall
+POP3D,0,False,,2018-07-02,pitfall
+Advantage Learning,0,False,,2015-12-15,pitfall
+QR-DQN-1,0,False,,2017-10-27,pitfall
+DreamerV2,0,False,,2020-10-05,pitfall
+MuZero (Res2 Adam),0,False,,2021-04-13,pitfall
+RND,-3,False,,2018-10-30,pitfall
+Ape-X,-0.6,False,,2018-03-02,pitfall
+IMPALA (deep),-1.66,False,,2018-02-05,pitfall
+MuZero,864.00,False,,2019-11-19,breakout
+Bootstrapped DQN,855,False,,2016-02-15,breakout
+FQF,854.2,False,,2019-11-05,breakout
+R2D2,837.7,False,,2019-05-01,breakout
+Ape-X,800.9,False,,2018-03-02,breakout
+Agent57,790.4,False,,2020-03-30,breakout
+IMPALA (deep),787.34,False,,2018-02-05,breakout
+A3C LSTM hs,766.8,False,,2016-02-04,breakout
+MuZero (Res2 Adam),758.04,False,,2021-04-13,breakout
+C51 noop,748.0,False,,2017-07-21,breakout
+QR-DQN-1,742,False,,2017-10-27,breakout
+IQN,734,False,,2018-06-14,breakout
+A3C FF hs,681.9,False,,2016-02-04,breakout
+A3C FF (1 day) hs,551.6,False,,2016-02-04,breakout
+Reactor 500M,514.8,False,,2017-04-15,breakout
+POP3D,458.41,False,,2018-07-02,breakout
+A2C + SIL,452,False,,2018-06-14,breakout
+Persistent AL,431.89,False,,2015-12-15,breakout
+Advantage Learning,425.32,False,,2015-12-15,breakout
+DDQN (tuned) noop,418.5,False,,2015-11-20,breakout
+Duel hs,411.6,False,,2015-11-20,breakout
+Nature DQN,401.2,False,,,breakout
+DQN noop,385.5,False,,2015-09-22,breakout
+Prior noop,373.9,False,,2015-11-18,breakout
+MAC,372.7,False,,2017-09-01,breakout
+DDQN (tuned) hs,368.9,False,,2015-09-22,breakout
+Prior+Duel noop,366.0,False,,2015-11-20,breakout
+UCT,364.4,False,,2012-07-19,breakout
+Prior+Duel hs,354.6,False,,2015-09-22,breakout
+DQN hs,354.5,False,,2015-09-22,breakout
+DDRL A3C,350,False,,2018-01-09,breakout
+Duel noop,345.3,False,,2015-11-20,breakout
+DDQN+Pop-Art noop,344.1,False,,2016-02-24,breakout
+Prior hs,343.0,False,,2015-11-18,breakout
+Recurrent Rational DQN Average,336,False,,2021-02-18,breakout
+Rational DQN Average,316,False,,2021-02-18,breakout
+Gorila,313.0,False,,2015-07-15,breakout
+NoisyNet-Dueling,263,False,,2017-06-30,breakout
+DQN Best,225,False,,2013-12-19,breakout
+DreamerV2,208,False,,2020-10-05,breakout
+DARQN hard,20,False,,2015-12-05,breakout
+CURL,18.2,False,,2020-04-08,breakout
+CGP,13.2,False,,2018-06-14,breakout
+Discrete Latent Space World Model (VQ-VAE),11.6,False,,2020-10-12,breakout
+ES FF (1 hour) noop,9.5,False,,2017-03-10,breakout
+SARSA,6.1,False,,,breakout
+Best Learner,5.2,False,,2012-07-19,breakout
+SAC,0.7,False,,2019-10-16,breakout
+A2C + SIL,3084781.7,False,,2018-06-14,atlantis
+POP3D,2193605.67,False,,2018-07-02,atlantis
+MuZero,1674767.20,False,,2019-11-19,atlantis
+R2D2,1620764.0,False,,2019-05-01,atlantis
+Agent57,1528841.76,False,,2020-03-30,atlantis
+Persistent AL,1465250,False,,2015-12-15,atlantis
+ES FF (1 hour) noop,1267410.0,False,,2017-03-10,atlantis
+MuZero (Res2 Adam),1137475.12,False,,2021-04-13,atlantis
+DreamerV2,1005430,False,,2020-10-05,atlantis
+Bootstrapped DQN,994500,False,,2016-02-15,atlantis
+IQN,978200,False,,2018-06-14,atlantis
+NoisyNet-Dueling,972175,False,,2017-06-30,atlantis
+QR-DQN-1,971850,False,,2017-10-27,atlantis
+Ape-X,944497.5,False,,2018-03-02,atlantis
+A3C FF hs,911091.0,False,,2016-02-04,atlantis
+A3C LSTM hs,875822.0,False,,2016-02-04,atlantis
+IMPALA (deep),849967.50,False,,2018-02-05,atlantis
+C51 noop,841075.0,False,,2017-07-21,atlantis
+A3C FF (1 day) hs,772392.0,False,,2016-02-04,atlantis
+Gorila,629166.5,False,,2015-07-15,atlantis
+Advantage Learning,553591.67,False,,2015-12-15,atlantis
+Duel hs,445360.0,False,,2015-11-20,atlantis
+Prior+Duel hs,423252.0,False,,2015-09-22,atlantis
+Prior+Duel noop,395762.0,False,,2015-11-20,atlantis
+Duel noop,382572.0,False,,2015-11-20,atlantis
+Prior noop,357324.0,False,,2015-11-18,atlantis
+DDQN+Pop-Art noop,340076.0,False,,2016-02-24,atlantis
+Prior hs,330647.0,False,,2015-11-18,atlantis
+DDQN (tuned) hs,319688.0,False,,2015-09-22,atlantis
+Reactor 500M,302831.0,False,,2017-04-15,atlantis
+DQN hs,292491.0,False,,2015-09-22,atlantis
+DQN noop,279987.0,False,,2015-09-22,atlantis
+UCT,193858,False,,2012-07-19,atlantis
+DDQN (tuned) noop,106056.0,False,,2015-11-20,atlantis
+CGP,99240,False,,2018-06-14,atlantis
+Nature DQN,85641.0,False,,,atlantis
+Best Learner,62687,False,,2012-07-19,atlantis
+SARSA,852.9,False,,,atlantis
+Agent57,44199.93,False,,2020-03-30,solaris
+Go-Explore,19671,False,,2020-04-27,solaris
+CGP,8324,False,,2018-06-14,solaris
+IQN,8007,False,,2018-06-14,solaris
+QR-DQN-1,6740,False,,2017-10-27,solaris
+NoisyNet-Dueling,6522,False,,2017-06-30,solaris
+MuZero (Res2 Adam),5132.95,False,,2021-04-13,solaris
+Advantage Learning,4785.16,False,,2015-12-15,solaris
+R2D2,3787.2,False,,2019-05-01,solaris
+RND,3282,False,,2018-10-30,solaris
+Ape-X,2892.9,False,,2018-03-02,solaris
+IMPALA (deep),2365.00,False,,2018-02-05,solaris
+DQNMMCe,2244.6,False,,2018-07-31,solaris
+DreamerV2,1036,False,,2020-10-05,solaris
+MuZero,56.62,False,,2019-11-19,solaris
+Go-Explore,197376,False,,2020-04-27,berzerk
+MuZero,85932.60,False,,2019-11-19,berzerk
+Agent57,61507.83,False,,2020-03-30,berzerk
+Ape-X,57196.7,False,,2018-03-02,berzerk
+R2D2,53318.7,False,,2019-05-01,berzerk
+FQF,12422.2,False,,2019-11-05,berzerk
+Prior+Duel noop,3409.0,False,,2015-11-20,berzerk
+QR-DQN-1,3117,False,,2017-10-27,berzerk
+MuZero (Res2 Adam),2705.82,False,,2021-04-13,berzerk
+Reactor 500M,2303.1,False,,2017-04-15,berzerk
+Prior+Duel hs,2178.6,False,,2015-09-22,berzerk
+NoisyNet-Dueling,1896,False,,2017-06-30,berzerk
+IMPALA (deep),1852.70,False,,2018-02-05,berzerk
+C51 noop,1645.0,False,,2017-07-21,berzerk
+Duel noop,1472.6,False,,2015-11-20,berzerk
+A3C FF (1 day) hs,1433.4,False,,2016-02-04,berzerk
+Persistent AL,1328.25,False,,2015-12-15,berzerk
+Prior noop,1305.6,False,,2015-11-18,berzerk
+DDQN (tuned) noop,1225.4,False,,2015-11-20,berzerk
+DDQN+Pop-Art noop,1199.6,False,,2016-02-24,berzerk
+CGP,1138,False,,2018-06-14,berzerk
+IQN,1053,False,,2018-06-14,berzerk
+DDQN (tuned) hs,1011.1,False,,2015-09-22,berzerk
+Duel hs,910.6,False,,2015-11-20,berzerk
+Prior hs,865.9,False,,2015-11-18,berzerk
+A3C LSTM hs,862.2,False,,2016-02-04,berzerk
+A3C FF hs,817.9,False,,2016-02-04,berzerk
+Advantage Learning,747.26,False,,2015-12-15,berzerk
+ES FF (1 hour) noop,686.0,False,,2017-03-10,berzerk
+Best Baseline,670,False,,2012-07-19,berzerk
+DreamerV2,660,False,,2020-10-05,berzerk
+DQN noop,585.6,False,,2015-09-22,berzerk
+Best Learner,501.3,False,,2012-07-19,berzerk
+DQN hs,493.4,False,,2015-09-22,berzerk
+Duel noop,21.0,False,,2015-11-20,pong
+ES FF (1 hour) noop,21.0,False,,2017-03-10,pong
+IQN,21,False,,2018-06-14,pong
+MuZero,21.00,False,,2019-11-19,pong
+R2D2,21.0,False,,2019-05-01,pong
+NoisyNet-Dueling,21,False,,2017-06-30,pong
+DQN Best,21,False,,2013-12-19,pong
+QR-DQN-1,21,False,,2017-10-27,pong
+UCT,21,False,,2012-07-19,pong
+IMPALA (deep),20.98,False,,2018-02-05,pong
+MuZero (Res2 Adam),20.95,False,,2021-04-13,pong
+DDQN (tuned) noop,20.9,False,,2015-11-20,pong
+Prior+Duel noop,20.9,False,,2015-11-20,pong
+C51 noop,20.9,False,,2017-07-21,pong
+Bootstrapped DQN,20.9,False,,2016-02-15,pong
+Ape-X,20.9,False,,2018-03-02,pong
+A2C + SIL,20.9,False,,2018-06-14,pong
+Agent57,20.67,False,,2020-03-30,pong
+Prior noop,20.6,False,,2015-11-18,pong
+DDQN+Pop-Art noop,20.6,False,,2016-02-24,pong
+POP3D,20.5,False,,2018-07-02,pong
+Discrete Latent Space World Model (VQ-VAE),20.2,False,,2020-10-12,pong
+DDRL A3C,20,False,,2018-01-09,pong
+CGP,20,False,,2018-06-14,pong
+Persistent AL,19.76,False,,2015-12-15,pong
+Advantage Learning,19.66,False,,2015-12-15,pong
+DQN noop,19.5,False,,2015-09-22,pong
+DDQN (tuned) hs,19.1,False,,2015-09-22,pong
+Nature DQN,18.9,False,,,pong
+Prior hs,18.9,False,,2015-11-18,pong
+Duel hs,18.8,False,,2015-11-20,pong
+Prior+Duel hs,18.4,False,,2015-09-22,pong
+Recurrent Rational DQN Average,18.13,False,,2021-02-18,pong
+Rational DQN Average,18.04,False,,2021-02-18,pong
+DQN hs,18.0,False,,2015-09-22,pong
+DreamerV2,18,False,,2020-10-05,pong
+Gorila,16.7,False,,2015-07-15,pong
+A3C FF (1 day) hs,11.4,False,,2016-02-04,pong
+A3C LSTM hs,10.7,False,,2016-02-04,pong
+MAC,10.6,False,,2017-09-01,pong
+A3C FF hs,5.6,False,,2016-02-04,pong
+CURL,2.1,False,,2020-04-08,pong
+SARSA,-17.4,False,,,pong
+Best Learner,-19,False,,2012-07-19,pong
+SAC,-20.98,False,,2019-10-16,pong
+Agent57,29660.08,False,,2020-03-30,amidar
+R2D2,29321.4,False,,2019-05-01,amidar
+MuZero,28634.39,False,,2019-11-19,amidar
+Ape-X,8659.2,False,,2018-03-02,amidar
+NoisyNet-Dueling,3537,False,,2017-06-30,amidar
+FQF,3165.3,False,,2019-11-05,amidar
+IQN,2946,False,,2018-06-14,amidar
+Duel noop,2354.5,False,,2015-11-20,amidar
+Prior+Duel noop,2296.8,False,,2015-11-20,amidar
+DreamerV2,2007,False,,2020-10-05,amidar
+Prior noop,1838.9,False,,2015-11-18,amidar
+DDQN (tuned) noop,1793.3,False,,2015-11-20,amidar
+C51 noop,1735.0,False,,2017-07-21,amidar
+QR-DQN-1,1641,False,,2017-10-27,amidar
+Advantage Learning,1557.43,False,,2015-12-15,amidar
+IMPALA (deep),1554.79,False,,2018-02-05,amidar
+Persistent AL,1451.65,False,,2015-12-15,amidar
+A2C + SIL,1362,False,,2018-06-14,amidar
+Bootstrapped DQN,1272.5,False,,2016-02-15,amidar
+MuZero (Res2 Adam),1197.38,False,,2021-04-13,amidar
+Reactor 500M,1015.8,False,,2017-04-15,amidar
+DQN noop,978.0,False,,2015-09-22,amidar
+DDQN+Pop-Art noop,782.5,False,,2016-02-24,amidar
+Nature DQN,739.5,False,,,amidar
+POP3D,729.15,False,,2018-07-02,amidar
+VPN,641,False,,2017-07-11,amidar
+A3C FF (1 day) hs,283.9,False,,2016-02-04,amidar
+A3C FF hs,263.9,False,,2016-02-04,amidar
+Rainbow+SEER,250.5,False,,2021-03-04,amidar
+Prior+Duel hs,238.4,False,,2015-09-22,amidar
+Prior+Duel hs,238.4,False,,2015-11-20,amidar
+CURL,232.3,False,,2020-04-08,amidar
+CGP,199,False,,2018-06-14,amidar
+Gorila,189.2,False,,2015-07-15,amidar
+SARSA,183.6,False,,,amidar
+UCT,180.3,False,,2012-07-19,amidar
+DQN hs,178.4,False,,2015-09-22,amidar
+A3C LSTM hs,173.0,False,,2016-02-04,amidar
+Duel hs,172.7,False,,2015-11-20,amidar
+DDQN (tuned) hs,169.1,False,,2015-09-22,amidar
+Prior hs,129.1,False,,2015-11-18,amidar
+ES FF (1 hour) noop,112.0,False,,2017-03-10,amidar
+Best Learner,103.4,False,,2012-07-19,amidar
+SAC,7.9,False,,2019-10-16,amidar
+MuZero,678558.64,False,,2019-11-19,asteroids
+MuZero (Res2 Adam),476412,False,,2021-04-13,asteroids
+R2D2,357867.7,False,,2019-05-01,asteroids
+Ape-X,155495.1,False,,2018-03-02,asteroids
+Agent57,150854.61,False,,2020-03-30,asteroids
+IMPALA (deep),108590.05,False,,2018-02-05,asteroids
+NoisyNet-Dueling,86700,False,,2017-06-30,asteroids
+CGP,9412,False,,2018-06-14,asteroids
+A3C LSTM hs,5093.1,False,,2016-02-04,asteroids
+UCT,4660.6,False,,2012-07-19,asteroids
+FQF,4553.0,False,,2019-11-05,asteroids
+A3C FF hs,4474.5,False,,2016-02-04,asteroids
+QR-DQN-1,4226,False,,2017-10-27,asteroids
+Reactor 500M,3726.1,False,,2017-04-15,asteroids
+A3C FF (1 day) hs,3009.4,False,,2016-02-04,asteroids
+IQN,2898,False,,2018-06-14,asteroids
+DDQN+Pop-Art noop,2869.3,False,,2016-02-24,asteroids
+Duel noop,2837.7,False,,2015-11-20,asteroids
+Prior noop,2654.3,False,,2015-11-18,asteroids
+POP3D,2488.1,False,,2018-07-02,asteroids
+A2C + SIL,2259.4,False,,2018-06-14,asteroids
+Duel hs,2035.4,False,,2015-11-20,asteroids
+Advantage Learning,1924.42,False,,2015-12-15,asteroids
+Prior hs,1745.1,False,,2015-11-18,asteroids
+Persistent AL,1673.52,False,,2015-12-15,asteroids
+Nature DQN,1629.0,False,,,asteroids
+ES FF (1 hour) noop,1562.0,False,,2017-03-10,asteroids
+C51 noop,1516.0,False,,2017-07-21,asteroids
+DQN hs,1458.7,False,,2015-09-22,asteroids
+DQN noop,1364.5,False,,2015-09-22,asteroids
+DDQN (tuned) hs,1193.2,False,,2015-09-22,asteroids
+Prior+Duel noop,1192.7,False,,2015-11-20,asteroids
+Bootstrapped DQN,1032,False,,2016-02-15,asteroids
+Prior+Duel hs,1021.9,False,,2015-09-22,asteroids
+Gorila,933.6,False,,2015-07-15,asteroids
+Best Learner,907.3,False,,2012-07-19,asteroids
+DreamerV2,897,False,,2020-10-05,asteroids
+DDQN (tuned) noop,734.7,False,,2015-11-20,asteroids
+SARSA,89.0,False,,,asteroids
+MuZero,143972.03,False,,2019-11-19,assault
+R2D2,108197.0,False,,2019-05-01,assault
+Agent57,67212.67,False,,2020-03-30,assault
+MuZero (Res2 Adam),33292.22,False,,2021-04-13,assault
+IQN,29091,False,,2018-06-14,assault
+Ape-X,24559.4,False,,2018-03-02,assault
+QR-DQN-1,22012,False,,2017-10-27,assault
+IMPALA (deep),19148.47,False,,2018-02-05,assault
+A3C LSTM hs,14497.9,False,,2016-02-04,assault
+DreamerV2,13432,False,,2020-10-05,assault
+Prior+Duel noop,11477.0,False,,2015-11-20,assault
+NoisyNet-Dueling,11231,False,,2017-06-30,assault
+Prior+Duel hs,10950.6,False,,2015-09-22,assault
+Prior+Duel hs,10950.6,False,,2015-11-20,assault
+DDQN+Pop-Art noop,9011.6,False,,2016-02-24,assault
+Reactor 500M,8323.3,False,,2017-04-15,assault
+Bootstrapped DQN,8047.1,False,,2016-02-15,assault
+Prior noop,7672.1,False,,2015-11-18,assault
+C51 noop,7203.0,False,,2017-07-21,assault
+Prior hs,6548.9,False,,2015-11-18,assault
+DDQN (tuned) hs,6060.8,False,,2015-09-22,assault
+A3C FF hs,5474.9,False,,2016-02-04,assault
+POP3D,5400.13,False,,2018-07-02,assault
+DDQN (tuned) noop,5393.2,False,,2015-11-20,assault
+Duel noop,4621.0,False,,2015-11-20,assault
+DQN noop,4280.4,False,,2015-09-22,assault
+Duel hs,3994.8,False,,2015-11-20,assault
+A3C FF (1 day) hs,3746.1,False,,2016-02-04,assault
+Advantage Learning,3661.51,False,,2015-12-15,assault
+DQN hs,3489.3,False,,2015-09-22,assault
+Nature DQN,3359.0,False,,,assault
+Persistent AL,3304.33,False,,2015-12-15,assault
+A2C + SIL,1812,False,,2018-06-14,assault
+ES FF (1 hour) noop,1673.9,False,,2017-03-10,assault
+UCT,1512.2,False,,2012-07-19,assault
+Gorila,1195.8,False,,2015-07-15,assault
+CGP,890.4,False,,2018-06-14,assault
+Best Learner,628,False,,2012-07-19,assault
+CURL,543.7,False,,2020-04-08,assault
+SARSA,537.0,False,,,assault
+SAC,350,False,,2019-10-16,assault
+R2D2,233413.3,False,,2019-05-01,kung fu master
+Agent57,206845.82,False,,2020-03-30,kung fu master
+MuZero,204824.00,False,,2019-11-19,kung fu master
+MuZero (Res2 Adam),116726.96,False,,2021-04-13,kung fu master
+FQF,111138.5,False,,2019-11-05,kung fu master
+Ape-X,97829.5,False,,2018-03-02,kung fu master
+QR-DQN-1,76642,False,,2017-10-27,kung fu master
+IQN,73512,False,,2018-06-14,kung fu master
+CGP,57400,False,,2018-06-14,kung fu master
+UCT,48854.5,False,,2012-07-19,kung fu master
+Prior+Duel noop,48375.0,False,,2015-11-20,kung fu master
+C51 noop,48192.0,False,,2017-07-21,kung fu master
+IMPALA (deep),43375.50,False,,2018-02-05,kung fu master
+NoisyNet-Dueling,41672,False,,2017-06-30,kung fu master
+A3C LSTM hs,40835.0,False,,2016-02-04,kung fu master
+Prior noop,39581.0,False,,2015-11-18,kung fu master
+Prior+Duel hs,37484.0,False,,2015-09-22,kung fu master
+Bootstrapped DQN,36733.3,False,,2016-02-15,kung fu master
+Persistent AL,34650.91,False,,2015-12-15,kung fu master
+A2C + SIL,34449.2,False,,2018-06-14,kung fu master
+DDQN+Pop-Art noop,34393.0,False,,2016-02-24,kung fu master
+Duel noop,34294.0,False,,2015-11-20,kung fu master
+POP3D,33728,False,,2018-07-02,kung fu master
+DreamerV2,32625,False,,2020-10-05,kung fu master
+Advantage Learning,32182.99,False,,2015-12-15,kung fu master
+Prior hs,31676.0,False,,2015-11-18,kung fu master
+DDQN (tuned) hs,30207.0,False,,2015-09-22,kung fu master
+DDQN (tuned) noop,29710.0,False,,2015-11-20,kung fu master
+SARSA,29151.0,False,,,kung fu master
+A3C FF hs,28819.0,False,,2016-02-04,kung fu master
+DQN noop,26059.0,False,,2015-09-22,kung fu master
+Duel hs,24288.0,False,,2015-11-20,kung fu master
+Nature DQN,23270.0,False,,,kung fu master
+DQN hs,20882.0,False,,2015-09-22,kung fu master
+Gorila,20620.0,False,,2015-07-15,kung fu master
+Best Learner,19544,False,,2012-07-19,kung fu master
+CURL,14280,False,,2020-04-08,kung fu master
+A3C FF (1 day) hs,3046.0,False,,2016-02-04,kung fu master
+C51 noop,3454.0,False,,2017-07-21,enduro
+MuZero,2382.44,False,,2019-11-19,enduro
+R2D2,2372.7,False,,2019-05-01,enduro
+Agent57,2367.71,False,,2020-03-30,enduro
+MuZero (Res2 Adam),2365.81,False,,2021-04-13,enduro
+IQN,2359,False,,2018-06-14,enduro
+QR-DQN-1,2355,False,,2017-10-27,enduro
+DreamerV2,2316,False,,2020-10-05,enduro
+Prior+Duel noop,2306.4,False,,2015-11-20,enduro
+Duel noop,2258.2,False,,2015-11-20,enduro
+Reactor 500M,2224.2,False,,2017-04-15,enduro
+Prior+Duel hs,2223.9,False,,2015-09-22,enduro
+Ape-X,2177.4,False,,2018-03-02,enduro
+Prior noop,2093.0,False,,2015-11-18,enduro
+Duel hs,2077.4,False,,2015-11-20,enduro
+NoisyNet-Dueling,2013,False,,2017-06-30,enduro
+DDQN+Pop-Art noop,2002.1,False,,2016-02-24,enduro
+Prior hs,1831.0,False,,2015-11-18,enduro
+Bootstrapped DQN,1591,False,,2016-02-15,enduro
+Persistent AL,1343.1,False,,2015-12-15,enduro
+Advantage Learning,1252.7,False,,2015-12-15,enduro
+DDQN (tuned) hs,1216.6,False,,2015-09-22,enduro
+DDQN (tuned) noop,1211.8,False,,2015-11-20,enduro
+A2C + SIL,1205.1,False,,2018-06-14,enduro
+Rational DQN Average,1043,False,,2021-02-18,enduro
+Recurrent Rational DQN Average,957,False,,2021-02-18,enduro
+DQN noop,729.0,False,,2015-09-22,enduro
+DQN Best,661,False,,2013-12-19,enduro
+DQN hs,626.7,False,,2015-09-22,enduro
+POP3D,459.85,False,,2018-07-02,enduro
+VPN,382,False,,2017-07-11,enduro
+Nature DQN,301.8,False,,,enduro
+UCT,286.3,False,,2012-07-19,enduro
+SARSA,159.4,False,,,enduro
+Best Learner,129.1,False,,2012-07-19,enduro
+ES FF (1 hour) noop,95.0,False,,2017-03-10,enduro
+Gorila,71.0,False,,2015-07-15,enduro
+CGP,56.8,False,,2018-06-14,enduro
+SAC,0.8,False,,2019-10-16,enduro
+IMPALA (deep),0.00,False,,2018-02-05,enduro
+A3C FF (1 day) hs,-82.2,False,,2016-02-04,enduro
+A3C FF hs,-82.5,False,,2016-02-04,enduro
+A3C LSTM hs,-82.5,False,,2016-02-04,enduro
+CGP,993010,False,,2018-06-14,defender
+MuZero,839642.95,False,,2019-11-19,defender
+Agent57,677642.78,False,,2020-03-30,defender
+R2D2,665792.0,False,,2019-05-01,defender
+MuZero (Res2 Adam),557200.75,False,,2021-04-13,defender
+Ape-X,411943.5,False,,2018-03-02,defender
+Reactor 500M,223025.0,False,,2017-04-15,defender
+IMPALA (deep),185203.00,False,,2018-02-05,defender
+IQN,53537,False,,2018-06-14,defender
+QR-DQN-1,47887,False,,2017-10-27,defender
+NoisyNet-Dueling,42253,False,,2017-06-30,defender
+Duel noop,42214.0,False,,2015-11-20,defender
+Prior+Duel noop,41324.5,False,,2015-11-20,defender
+Prior+Duel hs,34415.0,False,,2015-11-20,defender
+Persistent AL,32038.93,False,,2015-12-15,defender
+Advantage Learning,30643.59,False,,2015-12-15,defender
+MuZero,725853.90,False,,2019-11-19,zaxxon
+Agent57,249808.9,False,,2020-03-30,zaxxon
+R2D2,224910.7,False,,2019-05-01,zaxxon
+MuZero (Res2 Adam),154131.86,False,,2021-04-13,zaxxon
+Ape-X,42285.5,False,,2018-03-02,zaxxon
+IMPALA (deep),32935.50,False,,2018-02-05,zaxxon
+A3C FF hs,24622.0,False,,2016-02-04,zaxxon
+A3C LSTM hs,23519.0,False,,2016-02-04,zaxxon
+UCT,22610,False,,2012-07-19,zaxxon
+IQN,21772,False,,2018-06-14,zaxxon
+DreamerV2,18759,False,,2020-10-05,zaxxon
+RIMs-PPO,15000,False,,,zaxxon
+NoisyNet-Dueling,14874,False,,2017-06-30,zaxxon
+DDQN+Pop-Art noop,14402.0,False,,2016-02-24,zaxxon
+Prior+Duel noop,13886.0,False,,2015-11-20,zaxxon
+QR-DQN-1,13112,False,,2017-10-27,zaxxon
+Duel noop,12944.0,False,,2015-11-20,zaxxon
+Bootstrapped DQN,11491.7,False,,2016-02-15,zaxxon
+Prior+Duel hs,11320.0,False,,2015-09-22,zaxxon
+C51 noop,10513.0,False,,2017-07-21,zaxxon
+Prior noop,10469.0,False,,2015-11-18,zaxxon
+Duel hs,10164.0,False,,2015-11-20,zaxxon
+DDQN (tuned) noop,10163.0,False,,2015-11-20,zaxxon
+Prior hs,9474.0,False,,2015-11-18,zaxxon
+POP3D,9472,False,,2018-07-02,zaxxon
+A2C + SIL,9164.2,False,,2018-06-14,zaxxon
+Advantage Learning,9129.61,False,,2015-12-15,zaxxon
+DDQN (tuned) hs,8593.0,False,,2015-09-22,zaxxon
+ES FF (1 hour) noop,6380.0,False,,2017-03-10,zaxxon
+Gorila,6159.4,False,,2015-07-15,zaxxon
+DQN noop,5363.0,False,,2015-09-22,zaxxon
+Nature DQN,4977.0,False,,,zaxxon
+DQN hs,4412.0,False,,2015-09-22,zaxxon
+Best Learner,3365.1,False,,2012-07-19,zaxxon
+CGP,2980,False,,2018-06-14,zaxxon
+A3C FF (1 day) hs,2659.0,False,,2016-02-04,zaxxon
+SARSA,21.4,False,,,zaxxon
+Agent57,2623.71,False,,2020-03-30,venture
+Go-Explore,2281,False,,2020-04-27,venture
+R2D2,1970.7,False,,2019-05-01,venture
+RND,1859,False,,2018-10-30,venture
+Ape-X,1813,False,,2018-03-02,venture
+MuZero (Res2 Adam),1731.47,False,,2021-04-13,venture
+C51 noop,1520.0,False,,2017-07-21,venture
+IQN,1318,False,,2018-06-14,venture
+DQNMMCe+SR,1241.8,False,,2018-07-31,venture
+DDQN+Pop-Art noop,1172.0,False,,2016-02-24,venture
+Sarsa-φ-EB,1169.2,False,,2017-06-25,venture
+NoisyNet-Dueling,815,False,,2017-06-30,venture
+ES FF (1 hour) noop,760.0,False,,2017-03-10,venture
+Gorila,523.4,False,,2015-07-15,venture
+Duel noop,497.0,False,,2015-11-20,venture
+TRPO-hash,445.0,False,,2016-11-15,venture
+Intrinsic Reward Agent,416,False,,2018-08-13,venture
+Nature DQN,380.0,False,,,venture
+Bootstrapped DQN,212.5,False,,2016-02-15,venture
+Duel hs,200.0,False,,2015-11-20,venture
+Advantage Learning,198.69,False,,2015-12-15,venture
+DQN noop,163.0,False,,2015-09-22,venture
+DQN hs,136.0,False,,2015-09-22,venture
+DDQN (tuned) noop,98.0,False,,2015-11-20,venture
+Prior hs,94.0,False,,2015-11-18,venture
+DQN-PixelCNN,82.2,False,,2017-03-03,venture
+Best Learner,66,False,,2012-07-19,venture
+Prior noop,54.0,False,,2015-11-18,venture
+Prior+Duel noop,48.0,False,,2015-11-20,venture
+DQN-CTS,48.0,False,,2017-03-03,venture
+QR-DQN-1,43.9,False,,2017-10-27,venture
+POP3D,36.33,False,,2018-07-02,venture
+Prior+Duel hs,29.0,False,,2015-09-22,venture
+A3C LSTM hs,25.0,False,,2016-02-04,venture
+A3C FF hs,23.0,False,,2016-02-04,venture
+DDQN (tuned) hs,21.0,False,,2015-09-22,venture
+A3C FF (1 day) hs,19.0,False,,2016-02-04,venture
+SARSA,0.6,False,,,venture
+MuZero,0.40,False,,2019-11-19,venture
+MP-EB,0.0,False,,2015-07-03,venture
+A3C-CTS,0.0,False,,2016-06-06,venture
+Sarsa-ε,0.0,False,,2017-06-25,venture
+IMPALA (deep),0.00,False,,2018-02-05,venture
+A2C + SIL,0,False,,2018-06-14,venture
+CGP,0,False,,2018-06-14,venture
+DreamerV2,0,False,,2020-10-05,venture
+Best Learner,0,False,,2012-07-19,skiing
+Full Tree,0,False,,2012-07-19,skiing
+IQN,-9289,False,,2018-06-14,skiing
+MuZero,-29968.36,False,,2019-11-19,skiing
+R2D2,-30021.7,False,,2019-05-01,skiing
+IMPALA (deep),-10180.38,False,,2018-02-05,skiing
+FQF,-9085.3,False,,2019-11-05,skiing
+NoisyNet-Dueling,-7550,False,,2017-06-30,skiing
+CGP,-9011,False,,2018-06-14,skiing
+QR-DQN-1,-9324,False,,2017-10-27,skiing
+Ape-X,-10789.9,False,,2018-03-02,skiing
+Advantage Learning,-13264.51,False,,2015-12-15,skiing
+Go-Explore,-3660,False,,2020-04-27,skiing
+Agent57,-4202.6,False,,2020-03-30,skiing
+DreamerV2,-9530,False,,2020-10-05,skiing
+Recurrent Rational DQN Average,-23582,False,,2021-02-18,skiing
+Rational DQN Average,-23487,False,,2021-02-18,skiing
+MuZero (Res2 Adam),-30000,False,,2021-04-13,skiing
+MuZero,74335.30,False,,2019-11-19,space invaders
+Ape-X,54681,False,,2018-03-02,space invaders
+Agent57,48680.86,False,,2020-03-30,space invaders
+FQF,46498.3,False,,2019-11-05,space invaders
+IMPALA (deep),43595.78,False,,2018-02-05,space invaders
+R2D2,43223.4,False,,2019-05-01,space invaders
+IQN,28888,False,,2018-06-14,space invaders
+A3C LSTM hs,23846.0,False,,2016-02-04,space invaders
+QR-DQN-1,20972,False,,2017-10-27,space invaders
+A3C FF hs,15730.5,False,,2016-02-04,space invaders
+Prior+Duel noop,15311.5,False,,2015-11-20,space invaders
+Prior+Duel hs,8978.0,False,,2015-09-22,space invaders
+Duel noop,6427.3,False,,2015-11-20,space invaders
+Duel hs,5993.1,False,,2015-11-20,space invaders
+NoisyNet-Dueling,5909,False,,2017-06-30,space invaders
+C51 noop,5747.0,False,,2017-07-21,space invaders
+Prior hs,3912.1,False,,2015-11-18,space invaders
+MuZero (Res2 Adam),3645.63,False,,2021-04-13,space invaders
+Advantage Learning,3460.79,False,,2015-12-15,space invaders
+Persistent AL,3277.59,False,,2015-12-15,space invaders
+A2C + SIL,2951.7,False,,2018-06-14,space invaders
+Bootstrapped DQN,2893,False,,2016-02-15,space invaders
+Prior noop,2865.8,False,,2015-11-18,space invaders
+UCT,2718,False,,2012-07-19,space invaders
+DDQN (tuned) hs,2628.7,False,,2015-09-22,space invaders
+DDQN+Pop-Art noop,2589.7,False,,2016-02-24,space invaders
+DDQN (tuned) noop,2525.5,False,,2015-11-20,space invaders
+A3C FF (1 day) hs,2214.7,False,,2016-02-04,space invaders
+DreamerV2,2112,False,,2020-10-05,space invaders
+MFEC,1990,False,,2020-08-21,space invaders
+Nature DQN,1976.0,False,,,space invaders
+DQN noop,1692.3,False,,2015-09-22,space invaders
+Recurrent Rational DQN Average,1395,False,,2021-02-18,space invaders
+DQN hs,1293.8,False,,2015-09-22,space invaders
+POP3D,1216.15,False,,2018-07-02,space invaders
+Gorila,1183.3,False,,2015-07-15,space invaders
+MAC,1173.1,False,,2017-09-01,space invaders
+DQN Best,1075,False,,2013-12-19,space invaders
+CGP,1001,False,,2018-06-14,space invaders
+IDVQ + DRSC + XNES,830,False,,2018-06-04,space invaders
+ES FF (1 hour) noop,678.5,False,,2017-03-10,space invaders
+DDRL A3C,650,False,,2018-01-09,space invaders
+DARQN soft,650,False,,2015-12-05,space invaders
+Rational DQN Average,650,False,,2021-02-18,space invaders
+SARSA,267.9,False,,,space invaders
+Best Learner,250.1,False,,2012-07-19,space invaders
+SAC,160.8,False,,2019-10-16,space invaders
+Rainbow,12629.0,False,,2017-10-06,space invaders
+RIMs-PPO,230324,False,,,demon attack
+MuZero,143964.26,False,,2019-11-19,demon attack
+MuZero (Res2 Adam),143838.04,False,,2021-04-13,demon attack
+Agent57,143161.44,False,,2020-03-30,demon attack
+R2D2,140002.3,False,,2019-05-01,demon attack
+Ape-X,133086.4,False,,2018-03-02,demon attack
+IMPALA (deep),132826.98,False,,2018-02-05,demon attack
+C51 noop,130955.0,False,,2017-07-21,demon attack
+IQN,128580,False,,2018-06-14,demon attack
+QR-DQN-1,121551,False,,2017-10-27,demon attack
+A3C LSTM hs,115201.9,False,,2016-02-04,demon attack
+Reactor 500M,115154.0,False,,2017-04-15,demon attack
+A3C FF hs,113308.4,False,,2016-02-04,demon attack
+A3C FF (1 day) hs,84997.5,False,,2016-02-04,demon attack
+Bootstrapped DQN,82610,False,,2016-02-15,demon attack
+Prior+Duel hs,73371.3,False,,2015-09-22,demon attack
+Prior+Duel noop,72878.6,False,,2015-11-20,demon attack
+Prior noop,71846.4,False,,2015-11-18,demon attack
+Persistent AL,70908.17,False,,2015-12-15,demon attack
+DDQN (tuned) hs,69803.4,False,,2015-09-22,demon attack
+NoisyNet-Dueling,69311,False,,2017-06-30,demon attack
+DDQN+Pop-Art noop,63644.9,False,,2016-02-24,demon attack
+Prior hs,61277.5,False,,2015-11-18,demon attack
+POP3D,61147.33,False,,2018-07-02,demon attack
+Duel noop,60813.3,False,,2015-11-20,demon attack
+DDQN (tuned) noop,58044.2,False,,2015-11-20,demon attack
+Duel hs,56322.8,False,,2015-11-20,demon attack
+UCT,28158.8,False,,2012-07-19,demon attack
+Advantage Learning,27153.48,False,,2015-12-15,demon attack
+Gorila,14880.1,False,,2015-07-15,demon attack
+DreamerV2,13208,False,,2020-10-05,demon attack
+DQN hs,12550.7,False,,2015-09-22,demon attack
+DQN noop,12149.4,False,,2015-09-22,demon attack
+A2C + SIL,10140.5,False,,2018-06-14,demon attack
+Nature DQN,9711.0,False,,,demon attack
+CGP,2387,False,,2018-06-14,demon attack
+ES FF (1 hour) noop,1166.5,False,,2017-03-10,demon attack
+CURL,834,False,,2020-04-08,demon attack
+Best Learner,520.5,False,,2012-07-19,demon attack
+IDVQ + DRSC + XNES,325,False,,2018-06-04,demon attack
+SARSA,0.0,False,,,demon attack
+MuZero,476763.90,False,,2019-11-19,time pilot
+R2D2,445377.3,False,,2019-05-01,time pilot
+MuZero (Res2 Adam),424011.16,False,,2021-04-13,time pilot
+Agent57,405425.31,False,,2020-03-30,time pilot
+Ape-X,87085,False,,2018-03-02,time pilot
+UCT,63854.5,False,,2012-07-19,time pilot
+IMPALA (deep),48481.50,False,,2018-02-05,time pilot
+A3C LSTM hs,27202.0,False,,2016-02-04,time pilot
+DreamerV2,24752,False,,2020-10-05,time pilot
+Rational DQN Average,17632,False,,2021-02-18,time pilot
+NoisyNet-Dueling,17301,False,,2017-06-30,time pilot
+Recurrent Rational DQN Average,13261,False,,2021-02-18,time pilot
+A3C FF hs,12679.0,False,,2016-02-04,time pilot
+IQN,12236,False,,2018-06-14,time pilot
+CGP,12040,False,,2018-06-14,time pilot
+Duel noop,11666.0,False,,2015-11-20,time pilot
+A2C + SIL,10811.7,False,,2018-06-14,time pilot
+QR-DQN-1,10345,False,,2017-10-27,time pilot
+Prior noop,9197.0,False,,2015-11-18,time pilot
+Bootstrapped DQN,9079.4,False,,2016-02-15,time pilot
+Advantage Learning,8969.12,False,,2015-12-15,time pilot
+DDQN (tuned) noop,8339.0,False,,2015-11-20,time pilot
+C51 noop,8329.0,False,,2017-07-21,time pilot
+Gorila,8267.8,False,,2015-07-15,time pilot
+Prior+Duel noop,7553.0,False,,2015-11-20,time pilot
+DDQN (tuned) hs,6608.0,False,,2015-09-22,time pilot
+Duel hs,6601.0,False,,2015-11-20,time pilot
+Prior hs,5963.0,False,,2015-11-18,time pilot
+Nature DQN,5947.0,False,,,time pilot
+A3C FF (1 day) hs,5825.0,False,,2016-02-04,time pilot
+ES FF (1 hour) noop,4970.0,False,,2017-03-10,time pilot
+Prior+Duel hs,4871.0,False,,2015-09-22,time pilot
+DQN noop,4870.0,False,,2015-09-22,time pilot
+DDQN+Pop-Art noop,4870.0,False,,2016-02-24,time pilot
+DQN hs,4786.0,False,,2015-09-22,time pilot
+IDVQ + DRSC + XNES,4600,False,,2018-06-04,time pilot
+POP3D,3770.33,False,,2018-07-02,time pilot
+Best Learner,3741.2,False,,2012-07-19,time pilot
+SARSA,24.9,False,,,time pilot
+MuZero,243401.10,False,,2019-11-19,ms pacman
+MuZero (Res2 Adam),70659.76,False,,2021-04-13,ms pacman
+Agent57,63994.44,False,,2020-03-30,ms pacman
+R2D2,42281.7,False,,2019-05-01,ms pacman
+UCT,22336,False,,2012-07-19,ms pacman
+Ape-X,11255.2,False,,2018-03-02,ms pacman
+MFEC,8530.4004,False,,2020-08-21,ms pacman
+FQF,7631.9,False,,2019-11-05,ms pacman
+IMPALA (deep),7342.32,False,,2018-02-05,ms pacman
+Prior noop,6518.7,False,,2015-11-18,ms pacman
+IQN,6349,False,,2018-06-14,ms pacman
+Duel noop,6283.5,False,,2015-11-20,ms pacman
+QR-DQN-1,5821,False,,2017-10-27,ms pacman
+NoisyNet-Dueling,5546,False,,2017-06-30,ms pacman
+DDQN+Pop-Art noop,4963.8,False,,2016-02-24,ms pacman
+Advantage Learning,4065.8,False,,2015-12-15,ms pacman
+A2C + SIL,4025.1,False,,2018-06-14,ms pacman
+DreamerV2,3952,False,,2020-10-05,ms pacman
+Persistent AL,3917.55,False,,2015-12-15,ms pacman
+C51 noop,3415.0,False,,2017-07-21,ms pacman
+Prior+Duel noop,3327.3,False,,2015-11-20,ms pacman
+DQN noop,3085.6,False,,2015-09-22,ms pacman
+Bootstrapped DQN,2983.3,False,,2016-02-15,ms pacman
+DDQN (tuned) noop,2711.4,False,,2015-11-20,ms pacman
+VPN,2689,False,,2017-07-11,ms pacman
+CGP,2568,False,,2018-06-14,ms pacman
+Nature DQN,2311.0,False,,,ms pacman
+Duel hs,2250.6,False,,2015-11-20,ms pacman
+Prior hs,1865.9,False,,2015-11-18,ms pacman
+Best Learner,1691.8,False,,2012-07-19,ms pacman
+POP3D,1683.87,False,,2018-07-02,ms pacman
+CURL,1492.8,False,,2020-04-08,ms pacman
+Gorila,1263.0,False,,2015-07-15,ms pacman
+DDQN (tuned) hs,1241.3,False,,2015-09-22,ms pacman
+SARSA,1227.0,False,,,ms pacman
+DQN hs,1092.3,False,,2015-09-22,ms pacman
+Prior+Duel hs,1007.8,False,,2015-09-22,ms pacman
+A3C LSTM hs,850.7,False,,2016-02-04,ms pacman
+SAC,690.9,False,,2019-10-16,ms pacman
+A3C FF hs,653.7,False,,2016-02-04,ms pacman
+A3C FF (1 day) hs,594.4,False,,2016-02-04,ms pacman
+Rainbow,2570.2,False,,2017-10-06,ms pacman
+Agent57,999997.63,False,,2020-03-30,seaquest
+R2D2,999996.7,False,,2019-05-01,seaquest
+MuZero,999976.52,False,,2019-11-19,seaquest
+MuZero (Res2 Adam),999659.18,False,,2021-04-13,seaquest
+Ape-X,392952.3,False,,2018-03-02,seaquest
+C51 noop,266434.0,False,,2017-07-21,seaquest
+Duel noop,50254.2,False,,2015-11-20,seaquest
+Duel hs,37361.6,False,,2015-11-20,seaquest
+IQN,30140,False,,2018-06-14,seaquest
+Prior noop,26357.8,False,,2015-11-18,seaquest
+Prior hs,25463.7,False,,2015-11-18,seaquest
+NoisyNet-Dueling,16754,False,,2017-06-30,seaquest
+DDQN (tuned) noop,16452.7,False,,2015-11-20,seaquest
+DDQN (tuned) hs,14498.0,False,,2015-09-22,seaquest
+Persistent AL,13230.74,False,,2015-12-15,seaquest
+DDQN+Pop-Art noop,10932.3,False,,2016-02-24,seaquest
+Gorila,10145.9,False,,2015-07-15,seaquest
+Bootstrapped DQN,9083.1,False,,2016-02-15,seaquest
+Advantage Learning,8670.5,False,,2015-12-15,seaquest
+QR-DQN-1,8268,False,,2017-10-27,seaquest
+Recurrent Rational DQN Average,7460,False,,2021-02-18,seaquest
+DARQN soft,7263,False,,2015-12-05,seaquest
+Rational DQN Average,6603,False,,2021-02-18,seaquest
+DQN noop,5860.6,False,,2015-09-22,seaquest
+DreamerV2,5735,False,,2020-10-05,seaquest
+VPN,5628,False,,2017-07-11,seaquest
+Nature DQN,5286.0,False,,,seaquest
+UCT,5132.4,False,,2012-07-19,seaquest
+DQN hs,4216.7,False,,2015-09-22,seaquest
+A2C + SIL,2456.5,False,,2018-06-14,seaquest
+A3C FF hs,2355.4,False,,2016-02-04,seaquest
+A3C FF (1 day) hs,2300.2,False,,2016-02-04,seaquest
+DDRL A3C,1832,False,,2018-01-09,seaquest
+POP3D,1807.47,False,,2018-07-02,seaquest
+IMPALA (deep),1753.20,False,,2018-02-05,seaquest
+DQN Best,1740,False,,2013-12-19,seaquest
+MAC,1703.4,False,,2017-09-01,seaquest
+Prior+Duel hs,1431.2,False,,2015-09-22,seaquest
+ES FF (1 hour) noop,1390.0,False,,2017-03-10,seaquest
+A3C LSTM hs,1326.1,False,,2016-02-04,seaquest
+Prior+Duel noop,931.6,False,,2015-11-20,seaquest
+CGP,724,False,,2018-06-14,seaquest
+SARSA,675.5,False,,,seaquest
+Best Learner,664.8,False,,2012-07-19,seaquest
+Discrete Latent Space World Model (VQ-VAE),635,False,,2020-10-12,seaquest
+Rainbow+SEER,561.2,False,,2021-03-04,seaquest
+CURL,408,False,,2020-04-08,seaquest
+IDVQ + DRSC + XNES,320,False,,2018-06-04,seaquest
+SAC,211.6,False,,2019-10-16,seaquest
+MuZero,323417.18,False,,2019-11-19,riverraid
+Ape-X,63864.4,False,,2018-03-02,riverraid
+Agent57,63318.67,False,,2020-03-30,riverraid
+R2D2,45632.1,False,,2019-05-01,riverraid
+IMPALA (deep),29608.05,False,,2018-02-05,riverraid
+FQF,23560.7,False,,2019-11-05,riverraid
+Duel noop,21162.6,False,,2015-11-20,riverraid
+Prior+Duel noop,20607.6,False,,2015-11-20,riverraid
+IQN,17765,False,,2018-06-14,riverraid
+QR-DQN-1,17571,False,,2017-10-27,riverraid
+C51 noop,17322.0,False,,2017-07-21,riverraid
+Duel hs,16569.4,False,,2015-11-20,riverraid
+Prior+Duel hs,16496.8,False,,2015-09-22,riverraid
+DreamerV2,16166,False,,2020-10-05,riverraid
+DDQN (tuned) noop,14884.5,False,,2015-11-20,riverraid
+Prior noop,14522.3,False,,2015-11-18,riverraid
+A2C + SIL,14306.1,False,,2018-06-14,riverraid
+Bootstrapped DQN,12845,False,,2016-02-15,riverraid
+DDQN+Pop-Art noop,12530.8,False,,2016-02-24,riverraid
+A3C FF hs,12201.8,False,,2016-02-04,riverraid
+Prior hs,11807.2,False,,2015-11-18,riverraid
+DDQN (tuned) hs,10838.4,False,,2015-09-22,riverraid
+Advantage Learning,10585.12,False,,2015-12-15,riverraid
+A3C FF (1 day) hs,10001.2,False,,2016-02-04,riverraid
+Nature DQN,8316.0,False,,,riverraid
+POP3D,8052.23,False,,2018-07-02,riverraid
+DQN noop,7377.6,False,,2015-09-22,riverraid
+A3C LSTM hs,6591.9,False,,2016-02-04,riverraid
+Gorila,5310.3,False,,2015-07-15,riverraid
+ES FF (1 hour) noop,5009.0,False,,2017-03-10,riverraid
+DQN hs,4748.5,False,,2015-09-22,riverraid
+UCT,4449,False,,2012-07-19,riverraid
+MFEC,3868,False,,2020-08-21,riverraid
+CGP,2914,False,,2018-06-14,riverraid
+SARSA,2650.0,False,,,riverraid
+Best Learner,1904.3,False,,2012-07-19,riverraid
+R2D2,79.3,False,,2019-05-01,ice hockey
+MuZero,67.04,False,,2019-11-19,ice hockey
+Agent57,63.64,False,,2020-03-30,ice hockey
+MuZero (Res2 Adam),41.66,False,,2021-04-13,ice hockey
+UCT,39.4,False,,2012-07-19,ice hockey
+Ape-X,33,False,,2018-03-02,ice hockey
+DreamerV2,24,False,,2020-10-05,ice hockey
+FQF,17.3,False,,2019-11-05,ice hockey
+CGP,4,False,,2018-06-14,ice hockey
+IMPALA (deep),3.48,False,,2018-02-05,ice hockey
+NoisyNet-Dueling,3,False,,2017-06-30,ice hockey
+Prior noop,1.3,False,,2015-11-18,ice hockey
+Duel noop,0.5,False,,2015-11-20,ice hockey
+Prior+Duel hs,0.5,False,,2015-09-22,ice hockey
+IQN,0.2,False,,2018-06-14,ice hockey
+SARSA,-3.2,False,,,ice hockey
+Nature DQN,-1.6,False,,,ice hockey
+Gorila,-1.7,False,,2015-07-15,ice hockey
+DQN hs,-1.6,False,,2015-09-22,ice hockey
+DQN noop,-1.9,False,,2015-09-22,ice hockey
+Duel hs,-1.3,False,,2015-11-20,ice hockey
+DDQN (tuned) noop,-2.7,False,,2015-11-20,ice hockey
+DDQN (tuned) hs,-2.5,False,,2015-09-22,ice hockey
+Prior hs,-0.2,False,,2015-11-18,ice hockey
+DDQN+Pop-Art noop,-4.1,False,,2016-02-24,ice hockey
+Prior+Duel noop,-0.4,False,,2015-11-20,ice hockey
+A3C LSTM hs,-1.7,False,,2016-02-04,ice hockey
+A3C FF hs,-2.8,False,,2016-02-04,ice hockey
+A3C FF (1 day) hs,-4.7,False,,2016-02-04,ice hockey
+ES FF (1 hour) noop,-4.1,False,,2017-03-10,ice hockey
+C51 noop,-3.5,False,,2017-07-21,ice hockey
+Bootstrapped DQN,-1.3,False,,2016-02-15,ice hockey
+Persistent AL,-0.25,False,,2015-12-15,ice hockey
+Advantage Learning,-1.24,False,,2015-12-15,ice hockey
+QR-DQN-1,-1.7,False,,2017-10-27,ice hockey
+A2C + SIL,-2.4,False,,2018-06-14,ice hockey
+POP3D,-4.12,False,,2018-07-02,ice hockey
+Best Learner,-9.5,False,,2012-07-19,ice hockey
+TRPO-hash,34.0,False,,2016-11-15,freeway
+IQN,34,False,,2018-06-14,freeway
+NoisyNet-Dueling,34,False,,2017-06-30,freeway
+QR-DQN-1,34,False,,2017-10-27,freeway
+Go-Explore,34,False,,2020-04-27,freeway
+DreamerV2,34,False,,2020-10-05,freeway
+C51 noop,33.9,False,,2017-07-21,freeway
+Bootstrapped DQN,33.9,False,,2016-02-15,freeway
+MuZero (Res2 Adam),33.87,False,,2021-04-13,freeway
+Prior noop,33.7,False,,2015-11-18,freeway
+Ape-X,33.7,False,,2018-03-02,freeway
+DDQN+Pop-Art noop,33.4,False,,2016-02-24,freeway
+DDQN (tuned) noop,33.3,False,,2015-11-20,freeway
+MuZero,33.03,False,,2019-11-19,freeway
+Prior+Duel noop,33.0,False,,2015-11-20,freeway
+DQN-CTS,33.0,False,,2017-03-03,freeway
+Intrinsic Reward Agent,32.8,False,,2018-08-13,freeway
+Agent57,32.59,False,,2020-03-30,freeway
+R2D2,32.5,False,,2019-05-01,freeway
+Persistent AL,32.3,False,,2015-12-15,freeway
+A2C + SIL,32.2,False,,2018-06-14,freeway
+Advantage Learning,31.72,False,,2015-12-15,freeway
+DQN-PixelCNN,31.7,False,,2017-03-03,freeway
+ES FF (1 hour) noop,31.0,False,,2017-03-10,freeway
+DQN noop,30.8,False,,2015-09-22,freeway
+A3C-CTS,30.48,False,,2016-06-06,freeway
+Nature DQN,30.3,False,,,freeway
+Sarsa-ε,29.9,False,,2017-06-25,freeway
+DQNMMCe,29.5,False,,2018-07-31,freeway
+Discrete Latent Space World Model (VQ-VAE),29,False,,2020-10-12,freeway
+Prior hs,28.9,False,,2015-11-18,freeway
+DDQN (tuned) hs,28.8,False,,2015-09-22,freeway
+Prior+Duel hs,28.2,False,,2015-09-22,freeway
+CGP,28.2,False,,2018-06-14,freeway
+CURL,27.9,False,,2020-04-08,freeway
+MP-EB,27.0,False,,2015-07-03,freeway
+DQN hs,26.9,False,,2015-09-22,freeway
+Best Baseline,22.5,False,,2012-07-19,freeway
+POP3D,21.21,False,,2018-07-02,freeway
+SARSA,19.7,False,,,freeway
+Best Learner,19.1,False,,2012-07-19,freeway
+Gorila,10.2,False,,2015-07-15,freeway
+SAC,4.4,False,,2019-10-16,freeway
+UCT,0.4,False,,2012-07-19,freeway
+Duel hs,0.2,False,,2015-11-20,freeway
+A3C FF (1 day) hs,0.1,False,,2016-02-04,freeway
+A3C FF hs,0.1,False,,2016-02-04,freeway
+A3C LSTM hs,0.1,False,,2016-02-04,freeway
+Duel noop,0.0,False,,2015-11-20,freeway
+Sarsa-φ-EB,0.0,False,,2017-06-25,freeway
+IMPALA (deep),0.00,False,,2018-02-05,freeway
+Agent57,565909.85,False,,2020-03-30,crazy climber
+MuZero,458315.40,False,,2019-11-19,crazy climber
+R2D2,366690.7,False,,2019-05-01,crazy climber
+Ape-X,320426,False,,2018-03-02,crazy climber
+Reactor 500M,236422.0,False,,2017-04-15,crazy climber
+FQF,223470.6,False,,2019-11-05,crazy climber
+C51 noop,179877.0,False,,2017-07-21,crazy climber
+IQN,179082,False,,2018-06-14,crazy climber
+NoisyNet-Dueling,171171,False,,2017-06-30,crazy climber
+Prior+Duel noop,162224.0,False,,2015-11-20,crazy climber
+QR-DQN-1,161196,False,,2017-10-27,crazy climber
+MuZero (Res2 Adam),158541.58,False,,2021-04-13,crazy climber
+Duel noop,143570.0,False,,2015-11-20,crazy climber
+Prior noop,141161.0,False,,2015-11-18,crazy climber
+A3C LSTM hs,138518.0,False,,2016-02-04,crazy climber
+Bootstrapped DQN,137925.9,False,,2016-02-15,crazy climber
+IMPALA (deep),136950.00,False,,2018-02-05,crazy climber
+DreamerV2,134512,False,,2020-10-05,crazy climber
+A2C + SIL,130185.8,False,,2018-06-14,crazy climber
+Persistent AL,130002.71,False,,2015-12-15,crazy climber
+Prior+Duel hs,127853.0,False,,2015-09-22,crazy climber
+Prior hs,127512.0,False,,2015-11-18,crazy climber
+Duel hs,124566.0,False,,2015-11-20,crazy climber
+Advantage Learning,123410.71,False,,2015-12-15,crazy climber
+POP3D,120247.33,False,,2018-07-02,crazy climber
+DDQN+Pop-Art noop,119679.0,False,,2016-02-24,crazy climber
+DDQN (tuned) noop,117282.0,False,,2015-11-20,crazy climber
+Nature DQN,114103.0,False,,,crazy climber
+DDQN (tuned) hs,113782.0,False,,2015-09-22,crazy climber
+A3C FF hs,112646.0,False,,2016-02-04,crazy climber
+DQN noop,110763.0,False,,2015-09-22,crazy climber
+A3C FF (1 day) hs,101624.0,False,,2016-02-04,crazy climber
+UCT,98172.2,False,,2012-07-19,crazy climber
+DQN hs,98128.0,False,,2015-09-22,crazy climber
+Gorila,65451.0,False,,2015-07-15,crazy climber
+Discrete Latent Space World Model (VQ-VAE),59609.4,False,,2020-10-12,crazy climber
+VPN,54119,False,,2017-07-11,crazy climber
+Rainbow+SEER,28066,False,,2021-03-04,crazy climber
+CURL,27805.6,False,,2020-04-08,crazy climber
+ES FF (1 hour) noop,26430.0,False,,2017-03-10,crazy climber
+Best Learner,23410.6,False,,2012-07-19,crazy climber
+CGP,12900,False,,2018-06-14,crazy climber
+SAC,3668.7,False,,2019-10-16,crazy climber
+SARSA,149.8,False,,,crazy climber
+R2D2,999153.3,False,,2019-05-01,asterix
+MuZero,998425.00,False,,2019-11-19,asterix
+Agent57,991384.42,False,,2020-03-30,asterix
+MuZero (Res2 Adam),862406.65,False,,2021-04-13,asterix
+FQF,578388.5,False,,2019-11-05,asterix
+C51 noop,406211,False,,2017-07-21,asterix
+Prior+Duel noop,375080,False,,2015-11-20,asterix
+Prior+Duel hs,364200,False,,2015-09-22,asterix
+Prior+Duel hs,364200.0,False,,2015-11-20,asterix
+IQN,342016,False,,2018-06-14,asterix
+Ape-X,313305,False,,2018-03-02,asterix
+IMPALA (deep),300732.00,False,,2018-02-05,asterix
+UCT,290700,False,,2012-07-19,asterix
+QR-DQN-1,261025,False,,2017-10-27,asterix
+Reactor 500M,205914.0,False,,2017-04-15,asterix
+Prior noop,31527,False,,2015-11-18,asterix
+NoisyNet-Dueling,28350,False,,2017-06-30,asterix
+Duel noop,28188,False,,2015-11-20,asterix
+DreamerV2,26925,False,,2020-10-05,asterix
+Prior hs,22484.5,False,,2015-11-18,asterix
+A3C FF hs,22140.5,False,,2016-02-04,asterix
+RIMs-PPO,21040,False,,,asterix
+Bootstrapped DQN,19713.2,False,,2016-02-15,asterix
+Persistent AL,19564.9,False,,2015-12-15,asterix
+DDQN+Pop-Art noop,18919.5,False,,2016-02-24,asterix
+Rational DQN Average,18109,False,,2021-02-18,asterix
+A2C + SIL,17984.2,False,,2018-06-14,asterix
+DDQN (tuned) noop,17356.5,False,,2015-11-20,asterix
+A3C LSTM hs,17244.5,False,,2016-02-04,asterix
+DDQN (tuned) hs,16837,False,,2015-09-22,asterix
+Duel hs,15840,False,,2015-11-20,asterix
+Advantage Learning,12852.08,False,,2015-12-15,asterix
+Recurrent Rational DQN Average,12621,False,,2021-02-18,asterix
+A3C FF (1 day) hs,6723,False,,2016-02-04,asterix
+Nature DQN,6012,False,,,asterix
+DQN noop,4359,False,,2015-09-22,asterix
+POP3D,4310.67,False,,2018-07-02,asterix
+Gorila,3324.7,False,,2015-07-15,asterix
+DQN hs,3170.5,False,,2015-09-22,asterix
+CGP,1880,False,,2018-06-14,asterix
+ES FF (1 hour) noop,1440,False,,2017-03-10,asterix
+SARSA,1332,False,,,asterix
+Best Learner,987.3,False,,2012-07-19,asterix
+CURL,524.3,False,,2020-04-08,asterix
+SAC,272,False,,2019-10-16,asterix
+Go-Explore,43791,False,,2020-04-27,montezuma revenge
+Go-Explore,43763,False,,2019-01-30,montezuma revenge
+Agent57,9352.01,False,,2020-03-30,montezuma revenge
+RND,8152,False,,2018-10-30,montezuma revenge
+A2C+CoEX,6635,False,,2018-11-05,montezuma revenge
+DQN-PixelCNN,3705.5,False,,2017-03-03,montezuma revenge
+DDQN-PC,3459,False,,2016-06-06,montezuma revenge
+Sarsa-φ-EB,2745.4,False,,2017-06-25,montezuma revenge
+Intrinsic Reward Agent,2504.6,False,,2018-08-13,montezuma revenge
+Ape-X,2500.0,False,,2018-03-02,montezuma revenge
+MuZero (Res2 Adam),2500,False,,2021-04-13,montezuma revenge
+R2D2,2061.3,False,,2019-05-01,montezuma revenge
+DQN+SR,1778.8,False,,2018-07-31,montezuma revenge
+DQNMMCe+SR,1778.6,False,,2018-07-31,montezuma revenge
+A2C + SIL,1100,False,,2018-06-14,montezuma revenge
+DreamerV2,650,False,,2020-10-05,montezuma revenge
+Sarsa-ε,399.5,False,,2017-06-25,montezuma revenge
+A3C-CTS,273.7,False,,2016-06-06,montezuma revenge
+SARSA,259,False,,,montezuma revenge
+MP-EB,142,False,,2015-07-03,montezuma revenge
+Bootstrapped DQN,100,False,,2016-02-15,montezuma revenge
+Gorila,84,False,,2015-07-15,montezuma revenge
+TRPO-hash,75,False,,2016-11-15,montezuma revenge
+A3C FF hs,67,False,,2016-02-04,montezuma revenge
+NoisyNet-Dueling,57,False,,2017-06-30,montezuma revenge
+A3C FF (1 day) hs,53,False,,2016-02-04,montezuma revenge
+Prior hs,51,False,,2015-11-18,montezuma revenge
+DQN hs,47,False,,2015-09-22,montezuma revenge
+DDQN (tuned) hs,42,False,,2015-09-22,montezuma revenge
+A3C LSTM hs,41,False,,2016-02-04,montezuma revenge
+Prior+Duel hs,24,False,,2015-09-22,montezuma revenge
+Duel hs,22,False,,2015-11-20,montezuma revenge
+Best Learner,10.7,False,,2012-07-19,montezuma revenge
+Persistent AL,1.72,False,,2015-12-15,montezuma revenge
+Advantage Learning,0.42,False,,2015-12-15,montezuma revenge
+IQN,0,False,,2018-06-14,montezuma revenge
+MuZero,0.00,False,,2019-11-19,montezuma revenge
+IMPALA (deep),0.00,False,,2018-02-05,montezuma revenge
+CGP,0,False,,2018-06-14,montezuma revenge
+POP3D,0,False,,2018-07-02,montezuma revenge
+QR-DQN-1,0,False,,2017-10-27,montezuma revenge
+MuZero,91.16,False,,2019-11-19,fishing derby
+Agent57,86.97,False,,2020-03-30,fishing derby
+R2D2,85.8,False,,2019-05-01,fishing derby
+MuZero (Res2 Adam),73.94,False,,2021-04-13,fishing derby
+NoisyNet-Dueling,57,False,,2017-06-30,fishing derby
+DreamerV2,57,False,,2020-10-05,fishing derby
+A2C + SIL,55.8,False,,2018-06-14,fishing derby
+FQF,52.7,False,,2019-11-05,fishing derby
+Duel noop,46.4,False,,2015-11-20,fishing derby
+DDQN+Pop-Art noop,45.1,False,,2016-02-24,fishing derby
+IMPALA (deep),44.85,False,,2018-02-05,fishing derby
+Ape-X,44.4,False,,2018-03-02,fishing derby
+Prior+Duel noop,41.3,False,,2015-11-20,fishing derby
+Prior noop,39.5,False,,2015-11-18,fishing derby
+QR-DQN-1,39,False,,2017-10-27,fishing derby
+UCT,37.8,False,,2012-07-19,fishing derby
+IQN,33.8,False,,2018-06-14,fishing derby
+POP3D,28.99,False,,2018-07-02,fishing derby
+Persistent AL,28.13,False,,2015-12-15,fishing derby
+Bootstrapped DQN,26,False,,2016-02-15,fishing derby
+A3C LSTM hs,22.6,False,,2016-02-04,fishing derby
+Advantage Learning,21.32,False,,2015-12-15,fishing derby
+A3C FF hs,18.8,False,,2016-02-04,fishing derby
+Prior+Duel hs,17.0,False,,2015-09-22,fishing derby
+DDQN (tuned) noop,15.5,False,,2015-11-20,fishing derby
+A3C FF (1 day) hs,13.6,False,,2016-02-04,fishing derby
+Prior hs,9.8,False,,2015-11-18,fishing derby
+C51 noop,8.9,False,,2017-07-21,fishing derby
+Gorila,4.6,False,,2015-07-15,fishing derby
+DDQN (tuned) hs,3.2,False,,2015-09-22,fishing derby
+SARSA,-85.1,False,,,fishing derby
+Nature DQN,-0.8,False,,,fishing derby
+DQN hs,-1.6,False,,2015-09-22,fishing derby
+DQN noop,-4.9,False,,2015-09-22,fishing derby
+Duel hs,-4.1,False,,2015-11-20,fishing derby
+ES FF (1 hour) noop,-49.0,False,,2017-03-10,fishing derby
+IDVQ + DRSC + XNES,-10,False,,2018-06-04,fishing derby
+CGP,-51,False,,2018-06-14,fishing derby
+Best Learner,-89.5,False,,2012-07-19,fishing derby
+MuZero,715545.61,False,,2019-11-19,up n down
+MuZero (Res2 Adam),634898.18,False,,2021-04-13,up n down
+Agent57,623805.73,False,,2020-03-30,up n down
+R2D2,589226.9,False,,2019-05-01,up n down
+DreamerV2,551051,False,,2020-10-05,up n down
+Ape-X,401884.3,False,,2018-03-02,up n down
+RIMs-PPO,390000,False,,,up n down
+IMPALA (deep),332546.75,False,,2018-02-05,up n down
+POP3D,242701.51,False,,2018-07-02,up n down
+A3C LSTM hs,105728.7,False,,2016-02-04,up n down
+IQN,88148,False,,2018-06-14,up n down
+A3C FF hs,74705.7,False,,2016-02-04,up n down
+UCT,74473.6,False,,2012-07-19,up n down
+QR-DQN-1,71260,False,,2017-10-27,up n down
+ES FF (1 hour) noop,67974.0,False,,2017-03-10,up n down
+NoisyNet-Dueling,61326,False,,2017-06-30,up n down
+A3C FF (1 day) hs,54525.4,False,,2016-02-04,up n down
+A2C + SIL,53314.6,False,,2018-06-14,up n down
+Duel noop,44939.6,False,,2015-11-20,up n down
+Prior+Duel noop,33879.1,False,,2015-11-20,up n down
+Bootstrapped DQN,26231,False,,2016-02-15,up n down
+Duel hs,24759.2,False,,2015-11-20,up n down
+DDQN (tuned) noop,22972.2,False,,2015-11-20,up n down
+Prior+Duel hs,22681.3,False,,2015-09-22,up n down
+DDQN+Pop-Art noop,22474.4,False,,2016-02-24,up n down
+DDQN (tuned) hs,19086.9,False,,2015-09-22,up n down
+Prior noop,16154.1,False,,2015-11-18,up n down
+C51 noop,15612.0,False,,2017-07-21,up n down
+CGP,14524,False,,2018-06-14,up n down
+Advantage Learning,13909.74,False,,2015-12-15,up n down
+Prior hs,12157.4,False,,2015-11-18,up n down
+DQN noop,9989.9,False,,2015-09-22,up n down
+Gorila,8747.7,False,,2015-07-15,up n down
+Nature DQN,8456.0,False,,,up n down
+DQN hs,8038.5,False,,2015-09-22,up n down
+Best Learner,3532.7,False,,2012-07-19,up n down
+CURL,2735.2,False,,2020-04-08,up n down
+SARSA,2449.0,False,,,up n down
+SAC,250.7,False,,2019-10-16,up n down
+Agent57,934134.88,False,,2020-03-30,battle zone
+MuZero,848623.00,False,,2019-11-19,battle zone
+R2D2,751880.0,False,,2019-05-01,battle zone
+MuZero (Res2 Adam),178716.9,False,,2021-04-13,battle zone
+Ape-X,98895,False,,2018-03-02,battle zone
+FQF,87928.6,False,,2019-11-05,battle zone
+UCT,70333.3,False,,2012-07-19,battle zone
+Reactor 500M,64070.0,False,,2017-04-15,battle zone
+NoisyNet-Dueling,52262,False,,2017-06-30,battle zone
+IQN,42244,False,,2018-06-14,battle zone
+QR-DQN-1,39268,False,,2017-10-27,battle zone
+Bootstrapped DQN,38666.7,False,,2016-02-15,battle zone
+Duel noop,37150.0,False,,2015-11-20,battle zone
+Prior+Duel noop,35520.0,False,,2015-11-20,battle zone
+Persistent AL,34583.07,False,,2015-12-15,battle zone
+CGP,34200,False,,2018-06-14,battle zone
+DDQN (tuned) noop,31700.0,False,,2015-11-20,battle zone
+Prior noop,31530.0,False,,2015-11-18,battle zone
+Duel hs,31320.0,False,,2015-11-20,battle zone
+Prior+Duel hs,30650.0,False,,2015-09-22,battle zone
+DQN noop,29900.0,False,,2015-09-22,battle zone
+Advantage Learning,28789.29,False,,2015-12-15,battle zone
+C51 noop,28742.0,False,,2017-07-21,battle zone
+DreamerV2,27483,False,,2020-10-05,battle zone
+Nature DQN,26300.0,False,,,battle zone
+Recurrent Rational DQN Average,25749,False,,2021-02-18,battle zone
+Prior hs,25520.0,False,,2015-11-18,battle zone
+A2C + SIL,25075,False,,2018-06-14,battle zone
+DDQN (tuned) hs,24740.0,False,,2015-09-22,battle zone
+DQN hs,23750.0,False,,2015-09-22,battle zone
+Rational DQN Average,23403,False,,2021-02-18,battle zone
+IMPALA (deep),20885.00,False,,2018-02-05,battle zone
+A3C LSTM hs,20760.0,False,,2016-02-04,battle zone
+Gorila,19938.0,False,,2015-07-15,battle zone
+ES FF (1 hour) noop,16600.0,False,,2017-03-10,battle zone
+Best Learner,15819.7,False,,2012-07-19,battle zone
+POP3D,15466.67,False,,2018-07-02,battle zone
+A3C FF hs,12950.0,False,,2016-02-04,battle zone
+A3C FF (1 day) hs,11340.0,False,,2016-02-04,battle zone
+CURL,11208,False,,2020-04-08,battle zone
+DDQN+Pop-Art noop,8220.0,False,,2016-02-24,battle zone
+SAC,4386.7,False,,2019-10-16,battle zone
+SARSA,16.2,False,,,battle zone
+MuZero,613411.80,False,,2019-11-19,road runner
+R2D2,599246.7,False,,2019-05-01,road runner
+MuZero (Res2 Adam),531097,False,,2021-04-13,road runner
+Agent57,243025.8,False,,2020-03-30,road runner
+NoisyNet-Dueling,234352,False,,2017-06-30,road runner
+Ape-X,222234.5,False,,2018-03-02,road runner
+DreamerV2,97720,False,,2020-10-05,road runner
+A3C LSTM hs,73949.0,False,,2016-02-04,road runner
+Duel noop,69524.0,False,,2015-11-20,road runner
+QR-DQN-1,64262,False,,2017-10-27,road runner
+Prior+Duel noop,62151.0,False,,2015-11-20,road runner
+Duel hs,58549.0,False,,2015-11-20,road runner
+IQN,57900,False,,2018-06-14,road runner
+Prior noop,57608.0,False,,2015-11-18,road runner
+IMPALA (deep),57121.00,False,,2018-02-05,road runner
+A2C + SIL,57071.7,False,,2018-06-14,road runner
+C51 noop,55839.0,False,,2017-07-21,road runner
+Prior+Duel hs,54630.0,False,,2015-09-22,road runner
+Advantage Learning,52351.23,False,,2015-12-15,road runner
+Prior hs,52264.0,False,,2015-11-18,road runner
+Bootstrapped DQN,51500,False,,2016-02-15,road runner
+DDQN+Pop-Art noop,47770.0,False,,2016-02-24,road runner
+POP3D,44679.67,False,,2018-07-02,road runner
+DDQN (tuned) noop,44127.0,False,,2015-11-20,road runner
+DDQN (tuned) hs,43156.0,False,,2015-09-22,road runner
+Gorila,43079.8,False,,2015-07-15,road runner
+DQN noop,39544.0,False,,2015-09-22,road runner
+UCT,38725,False,,2012-07-19,road runner
+DQN hs,35215.0,False,,2015-09-22,road runner
+A3C FF hs,34216.0,False,,2016-02-04,road runner
+A3C FF (1 day) hs,31769.0,False,,2016-02-04,road runner
+Nature DQN,18257.0,False,,,road runner
+ES FF (1 hour) noop,16590.0,False,,2017-03-10,road runner
+Rainbow+SEER,11794,False,,2021-03-04,road runner
+CGP,8960,False,,2018-06-14,road runner
+CURL,6786.7,False,,2020-04-08,road runner
+SAC,305.3,False,,2019-10-16,road runner
+SARSA,89.1,False,,,road runner
+Best Learner,67.7,False,,2012-07-19,road runner
+MuZero,955137.84,False,,2019-11-19,phoenix
+Agent57,908264.15,False,,2020-03-30,phoenix
+R2D2,864020.0,False,,2019-05-01,phoenix
+MuZero (Res2 Adam),815728.7,False,,2021-04-13,phoenix
+Ape-X,224491.1,False,,2018-03-02,phoenix
+IMPALA (deep),210996.45,False,,2018-02-05,phoenix
+FQF,174077.5,False,,2019-11-05,phoenix
+Prior+Duel hs,63597.0,False,,2015-11-20,phoenix
+IQN,56599,False,,2018-06-14,phoenix
+Advantage Learning,22038.27,False,,2015-12-15,phoenix
+QR-DQN-1,16585,False,,2017-10-27,phoenix
+Persistent AL,14495.56,False,,2015-12-15,phoenix
+NoisyNet-Dueling,10379,False,,2017-06-30,phoenix
+DreamerV2,9888,False,,2020-10-05,phoenix
+CGP,7520,False,,2018-06-14,phoenix
+IDVQ + DRSC + XNES,4600,False,,2018-06-04,phoenix
+MuZero,269358.27,False,,2019-11-19,krull
+Agent57,251997.31,False,,2020-03-30,krull
+R2D2,218448.1,False,,2019-05-01,krull
+MuZero (Res2 Adam),72570.5,False,,2021-04-13,krull
+VPN,15930,False,,2017-07-11,krull
+Ape-X,11741.4,False,,2018-03-02,krull
+Duel noop,11451.9,False,,2015-11-20,krull
+QR-DQN-1,11447,False,,2017-10-27,krull
+NoisyNet-Dueling,10754,False,,2017-06-30,krull
+IQN,10707,False,,2018-06-14,krull
+A2C + SIL,10614.6,False,,2018-06-14,krull
+Prior+Duel noop,10374.4,False,,2015-11-20,krull
+DreamerV2,10347,False,,2020-10-05,krull
+DDQN+Pop-Art noop,9745.1,False,,2016-02-24,krull
+C51 noop,9735.0,False,,2017-07-21,krull
+Prior noop,9728.0,False,,2015-11-18,krull
+Advantage Learning,9548.92,False,,2015-12-15,krull
+CGP,9086.8,False,,2018-06-14,krull
+Persistent AL,8689.81,False,,2015-12-15,krull
+ES FF (1 hour) noop,8647.2,False,,2017-03-10,krull
+Bootstrapped DQN,8627.9,False,,2016-02-15,krull
+DQN noop,8422.3,False,,2015-09-22,krull
+IMPALA (deep),8147.40,False,,2018-02-05,krull
+A3C FF (1 day) hs,8066.6,False,,2016-02-04,krull
+Duel hs,8051.6,False,,2015-11-20,krull
+DDQN (tuned) noop,7920.5,False,,2015-11-20,krull
+POP3D,7715.68,False,,2018-07-02,krull
+Prior+Duel hs,7658.6,False,,2015-09-22,krull
+Prior hs,6872.8,False,,2015-11-18,krull
+DDQN (tuned) hs,6796.1,False,,2015-09-22,krull
+Gorila,6363.1,False,,2015-07-15,krull
+DQN hs,6206.0,False,,2015-09-22,krull
+A3C LSTM hs,5911.4,False,,2016-02-04,krull
+A3C FF hs,5560.0,False,,2016-02-04,krull
+UCT,5037,False,,2012-07-19,krull
+CURL,3833.6,False,,2020-04-08,krull
+Nature DQN,3805.0,False,,,krull
+Best Learner,3371.5,False,,2012-07-19,krull
+SARSA,3341.0,False,,,krull
+Rainbow+SEER,3277.5,False,,2021-03-04,krull
+MuZero,741812.63,False,,2019-11-19,alien
+Agent57,297638.17,False,,2020-03-30,alien
+R2D2,229496.9,False,,2019-05-01,alien
+MuZero (Res2 Adam),70192.35,False,,2021-04-13,alien
+Ape-X,40804.9,False,,2018-03-02,alien
+FQF,16754.6,False,,2019-11-05,alien
+IMPALA (deep),15962.10,False,,2018-02-05,alien
+Reactor 500M,12689.1,False,,2017-04-15,alien
+UCT,7785,False,,2012-07-19,alien
+IQN,7022,False,,2018-06-14,alien
+NoisyNet-Dueling,5778,False,,2017-06-30,alien
+Persistent AL,5699.81,False,,2015-12-15,alien
+DreamerV2,5332,False,,2020-10-05,alien
+Advantage Learning,4990.91,False,,2015-12-15,alien
+QR-DQN-1,4871,False,,2017-10-27,alien
+Duel noop,4461.4,False,,2015-11-20,alien
+Prior noop,4203.8,False,,2015-11-18,alien
+Prior+Duel noop,3941.0,False,,2015-11-20,alien
+DDQN (tuned) noop,3747.7,False,,2015-11-20,alien
+DDQN+Pop-Art noop,3213.5,False,,2016-02-24,alien
+C51 noop,3166.0,False,,2017-07-21,alien
+Nature DQN,3069.0,False,,,alien
+Bootstrapped DQN,2436.6,False,,2016-02-15,alien
+A2C + SIL,2242.2,False,,2018-06-14,alien
+CGP,1978,False,,2018-06-14,alien
+DQN noop,1620.0,False,,2015-09-22,alien
+POP3D,1510.8,False,,2018-07-02,alien
+Duel hs,1486.5,False,,2015-11-20,alien
+VPN,1429,False,,2017-07-11,alien
+Prior hs,1334.7,False,,2015-11-18,alien
+Rainbow+SEER,1172.6,False,,2021-03-04,alien
+CURL,1148.2,False,,2020-04-08,alien
+DDQN (tuned) hs,1033.4,False,,2015-09-22,alien
+ES FF (1 hour) noop,994.0,False,,2017-03-10,alien
+A3C LSTM hs,945.3,False,,2016-02-04,alien
+Best Learner,939.2,False,,2012-07-19,alien
+Prior+Duel hs,823.7,False,,2015-09-22,alien
+Prior+Duel hs,823.7,False,,2015-11-20,alien
+Gorila,813.5,False,,2015-07-15,alien
+DQN hs,634.0,False,,2015-09-22,alien
+A3C FF hs,518.4,False,,2016-02-04,alien
+SAC,216.9,False,,2019-10-16,alien
+A3C FF (1 day) hs,182.1,False,,2016-02-04,alien
+SARSA,103.2,False,,,alien
+MuZero (Res2 Adam),27219.8,False,,2021-04-13,bank heist
+R2D2,24235.9,False,,2019-05-01,bank heist
+Agent57,23071.5,False,,2020-03-30,bank heist
+Ape-X,1716.4,False,,2018-03-02,bank heist
+Duel noop,1611.9,False,,2015-11-20,bank heist
+Prior+Duel noop,1503.1,False,,2015-11-20,bank heist
+IQN,1416,False,,2018-06-14,bank heist
+NoisyNet-Dueling,1318,False,,2017-06-30,bank heist
+MuZero,1278.98,False,,2019-11-19,bank heist
+Reactor 500M,1259.7,False,,2017-04-15,bank heist
+QR-DQN-1,1249,False,,2017-10-27,bank heist
+IMPALA (deep),1223.15,False,,2018-02-05,bank heist
+POP3D,1212.23,False,,2018-07-02,bank heist
+Bootstrapped DQN,1208,False,,2016-02-15,bank heist
+A2C + SIL,1137.8,False,,2018-06-14,bank heist
+Duel hs,1129.3,False,,2015-11-20,bank heist
+DDQN+Pop-Art noop,1103.3,False,,2016-02-24,bank heist
+DreamerV2,1063,False,,2020-10-05,bank heist
+Prior noop,1054.6,False,,2015-11-18,bank heist
+DDQN (tuned) noop,1030.6,False,,2015-11-20,bank heist
+Prior+Duel hs,1004.6,False,,2015-09-22,bank heist
+C51 noop,976.0,False,,2017-07-21,bank heist
+A3C FF hs,970.1,False,,2016-02-04,bank heist
+A3C FF (1 day) hs,946.0,False,,2016-02-04,bank heist
+A3C LSTM hs,932.8,False,,2016-02-04,bank heist
+DDQN (tuned) hs,886.0,False,,2015-09-22,bank heist
+Prior hs,876.6,False,,2015-11-18,bank heist
+Persistent AL,874.99,False,,2015-12-15,bank heist
+Advantage Learning,633.63,False,,2015-12-15,bank heist
+UCT,497.8,False,,2012-07-19,bank heist
+DQN noop,455.0,False,,2015-09-22,bank heist
+Nature DQN,429.7,False,,,bank heist
+Gorila,399.4,False,,2015-07-15,bank heist
+DQN hs,312.7,False,,2015-09-22,bank heist
+Rainbow+SEER,276.6,False,,2021-03-04,bank heist
+ES FF (1 hour) noop,225.0,False,,2017-03-10,bank heist
+CURL,193.7,False,,2020-04-08,bank heist
+Best Learner,190.8,False,,2012-07-19,bank heist
+CGP,148,False,,2018-06-14,bank heist
+Discrete Latent Space World Model (VQ-VAE),121.6,False,,2020-10-12,bank heist
+SARSA,67.4,False,,,bank heist
+Go-Explore,95756,False,,2020-04-27,private eye
+Agent57,79716.46,False,,2020-03-30,private eye
+MuZero,15299.98,False,,2019-11-19,private eye
+C51 noop,15095.0,False,,2017-07-21,private eye
+CGP,12702.2,False,,2018-06-14,private eye
+RND,8666,False,,2018-10-30,private eye
+DQN-PixelCNN,8358.7,False,,2017-03-03,private eye
+R2D2,5322.7,False,,2019-05-01,private eye
+Advantage Learning,5276.16,False,,2015-12-15,private eye
+Intrinsic Reward Agent,3036.5,False,,2018-08-13,private eye
+Gorila,2598.6,False,,2015-07-15,private eye
+Best Baseline,1947.3,False,,2012-07-19,private eye
+Bootstrapped DQN,1812.5,False,,2016-02-15,private eye
+Nature DQN,1788.0,False,,,private eye
+Prior+Duel hs,1277.6,False,,2015-09-22,private eye
+Best Learner,684.3,False,,2012-07-19,private eye
+Prior hs,670.7,False,,2015-11-18,private eye
+A2C + SIL,661.2,False,,2018-06-14,private eye
+A3C LSTM hs,421.1,False,,2016-02-04,private eye
+QR-DQN-1,350,False,,2017-10-27,private eye
+Duel hs,292.6,False,,2015-11-20,private eye
+DDQN+Pop-Art noop,286.7,False,,2016-02-24,private eye
+NoisyNet-Dueling,279,False,,2017-06-30,private eye
+DQN hs,207.9,False,,2015-09-22,private eye
+A3C FF hs,206.9,False,,2016-02-04,private eye
+Prior+Duel noop,206.0,False,,2015-11-20,private eye
+DQN-CTS,206.0,False,,2017-03-03,private eye
+Prior noop,200.0,False,,2015-11-18,private eye
+IQN,200,False,,2018-06-14,private eye
+A3C FF (1 day) hs,194.4,False,,2016-02-04,private eye
+DreamerV2,150,False,,2020-10-05,private eye
+DQN noop,146.7,False,,2015-09-22,private eye
+DDQN (tuned) noop,129.7,False,,2015-11-20,private eye
+CURL,105.2,False,,2020-04-08,private eye
+Duel noop,103.0,False,,2015-11-20,private eye
+ES FF (1 hour) noop,100.0,False,,2017-03-10,private eye
+MuZero (Res2 Adam),100,False,,2021-04-13,private eye
+A3C-CTS,99.32,False,,2016-06-06,private eye
+DQNMMCe+SR,99.1,False,,2018-07-31,private eye
+IMPALA (deep),98.50,False,,2018-02-05,private eye
+SARSA,86.0,False,,,private eye
+POP3D,79.67,False,,2018-07-02,private eye
+Ape-X,49.8,False,,2018-03-02,private eye
+DDQN (tuned) hs,-575.5,False,,2015-09-22,private eye
+Agent57,998532.37,False,,2020-03-30,yars revenge
+R2D2,995048.4,False,,2019-05-01,yars revenge
+MuZero,553311.46,False,,2019-11-19,yars revenge
+MuZero (Res2 Adam),219838.09,False,,2021-04-13,yars revenge
+Ape-X,148594.8,False,,2018-03-02,yars revenge
+NoisyNet-Dueling,86101,False,,2017-06-30,yars revenge
+IMPALA (deep),84231.14,False,,2018-02-05,yars revenge
+RUDDER,60577,False,,2018-06-20,yars revenge
+CGP,28838.2,False,,2018-06-14,yars revenge
+IQN,28379,False,,2018-06-14,yars revenge
+QR-DQN-1,26447,False,,2017-10-27,yars revenge
+Advantage Learning,24240.03,False,,2015-12-15,yars revenge
+DreamerV2,13028,False,,2020-10-05,yars revenge
+Agent57,999900,False,,2020-03-30,chopper command
+MuZero,991039.70,False,,2019-11-19,chopper command
+R2D2,986652.0,False,,2019-05-01,chopper command
+FQF,876460.0,False,,2019-11-05,chopper command
+Ape-X,721851,False,,2018-03-02,chopper command
+Reactor 500M,107779.0,False,,2017-04-15,chopper command
+UCT,34018.8,False,,2012-07-19,chopper command
+IMPALA (deep),28255.00,False,,2018-02-05,chopper command
+IQN,16836,False,,2018-06-14,chopper command
+C51 noop,15600.0,False,,2017-07-21,chopper command
+QR-DQN-1,14667,False,,2017-10-27,chopper command
+Prior+Duel noop,13185.0,False,,2015-11-20,chopper command
+NoisyNet-Dueling,11477,False,,2017-06-30,chopper command
+Duel noop,11215.0,False,,2015-11-20,chopper command
+A3C LSTM hs,10150.0,False,,2016-02-04,chopper command
+Prior noop,8600.0,False,,2015-11-18,chopper command
+Prior+Duel hs,8058.0,False,,2015-09-22,chopper command
+A3C FF hs,7021.0,False,,2016-02-04,chopper command
+A2C + SIL,6710,False,,2018-06-14,chopper command
+Nature DQN,6687.0,False,,,chopper command
+POP3D,6308.33,False,,2018-07-02,chopper command
+DQN noop,6126.0,False,,2015-09-22,chopper command
+MuZero (Res2 Adam),5989.55,False,,2021-04-13,chopper command
+DDQN (tuned) noop,5809.0,False,,2015-11-20,chopper command
+Persistent AL,5734.93,False,,2015-12-15,chopper command
+Advantage Learning,5431.36,False,,2015-12-15,chopper command
+DQN hs,5017.0,False,,2015-09-22,chopper command
+A3C FF (1 day) hs,4669.0,False,,2016-02-04,chopper command
+Prior hs,4635.0,False,,2015-11-18,chopper command
+Bootstrapped DQN,4100,False,,2016-02-15,chopper command
+Duel hs,3784.0,False,,2015-11-20,chopper command
+ES FF (1 hour) noop,3710.0,False,,2017-03-10,chopper command
+CGP,3580,False,,2018-06-14,chopper command
+DDQN (tuned) hs,3495.0,False,,2015-09-22,chopper command
+Gorila,3191.8,False,,2015-07-15,chopper command
+DreamerV2,1630,False,,2020-10-05,chopper command
+Best Learner,1581.5,False,,2012-07-19,chopper command
+CURL,1198,False,,2020-04-08,chopper command
+DDQN+Pop-Art noop,775.0,False,,2016-02-24,chopper command
+SARSA,16.9,False,,,chopper command
+MuZero,197126.00,False,,2019-11-19,wizard of wor
+Agent57,157306.41,False,,2020-03-30,wizard of wor
+R2D2,144362.7,False,,2019-05-01,wizard of wor
+UCT,105500,False,,2012-07-19,wizard of wor
+MuZero (Res2 Adam),100096.6,False,,2021-04-13,wizard of wor
+Ape-X,46204,False,,2018-03-02,wizard of wor
+FQF,44782.6,False,,2019-11-05,wizard of wor
+IQN,31190,False,,2018-06-14,wizard of wor
+QR-DQN-1,25061,False,,2017-10-27,wizard of wor
+A3C LSTM hs,18082.0,False,,2016-02-04,wizard of wor
+A3C FF hs,17244.0,False,,2016-02-04,wizard of wor
+Prior+Duel noop,12352.0,False,,2015-11-20,wizard of wor
+DreamerV2,10832,False,,2020-10-05,wizard of wor
+Prior+Duel hs,10471.0,False,,2015-09-22,wizard of wor
+Gorila,10431.0,False,,2015-07-15,wizard of wor
+Advantage Learning,9541.14,False,,2015-12-15,wizard of wor
+C51 noop,9300.0,False,,2017-07-21,wizard of wor
+IMPALA (deep),9157.50,False,,2018-02-05,wizard of wor
+NoisyNet-Dueling,9149,False,,2017-06-30,wizard of wor
+Duel noop,7855.0,False,,2015-11-20,wizard of wor
+DDQN (tuned) noop,7492.0,False,,2015-11-20,wizard of wor
+A2C + SIL,7088.3,False,,2018-06-14,wizard of wor
+Duel hs,7054.0,False,,2015-11-20,wizard of wor
+Bootstrapped DQN,6804.7,False,,2016-02-15,wizard of wor
+DDQN (tuned) hs,6201.0,False,,2015-09-22,wizard of wor
+Prior hs,5727.0,False,,2015-11-18,wizard of wor
+A3C FF (1 day) hs,5278.0,False,,2016-02-04,wizard of wor
+Prior noop,4802.0,False,,2015-11-18,wizard of wor
+POP3D,4704,False,,2018-07-02,wizard of wor
+CGP,3820,False,,2018-06-14,wizard of wor
+ES FF (1 hour) noop,3480.0,False,,2017-03-10,wizard of wor
+Nature DQN,3393.0,False,,,wizard of wor
+DQN noop,2704.0,False,,2015-09-22,wizard of wor
+Best Learner,1981.3,False,,2012-07-19,wizard of wor
+DQN hs,1609.0,False,,2015-09-22,wizard of wor
+DDQN+Pop-Art noop,483.0,False,,2016-02-24,wizard of wor
+SARSA,36.9,False,,,wizard of wor
+MuZero,631378.53,False,,2019-11-19,frostbite
+Agent57,541280.88,False,,2020-03-30,frostbite
+MuZero (Res2 Adam),374769.76,False,,2021-04-13,frostbite
+R2D2,315456.4,False,,2019-05-01,frostbite
+DreamerV2,47384,False,,2020-10-05,frostbite
+FQF,16472.9,False,,2019-11-05,frostbite
+Ape-X,9328.6,False,,2018-03-02,frostbite
+Prior+Duel noop,7413.0,False,,2015-11-20,frostbite
+A2C + SIL,6289.8,False,,2018-06-14,frostbite
+TRPO-hash,5214.0,False,,2016-11-15,frostbite
+Duel noop,4672.8,False,,2015-11-20,frostbite
+QR-DQN-1,4384,False,,2017-10-27,frostbite
+Prior noop,4380.1,False,,2015-11-18,frostbite
+IQN,4324,False,,2018-06-14,frostbite
+Prior+Duel hs,4038.4,False,,2015-09-22,frostbite
+C51 noop,3965.0,False,,2017-07-21,frostbite
+VPN,3811,False,,2017-07-11,frostbite
+Prior hs,3510.0,False,,2015-11-18,frostbite
+DDQN+Pop-Art noop,3469.6,False,,2016-02-24,frostbite
+Persistent AL,3248.96,False,,2015-12-15,frostbite
+NoisyNet-Dueling,2923,False,,2017-06-30,frostbite
+Sarsa-φ-EB,2770.1,False,,2017-06-25,frostbite
+MFEC,2394,False,,2020-08-21,frostbite
+Duel hs,2332.4,False,,2015-11-20,frostbite
+Advantage Learning,2305.82,False,,2015-12-15,frostbite
+Bootstrapped DQN,2181.4,False,,2016-02-15,frostbite
+DDQN (tuned) noop,1683.3,False,,2015-11-20,frostbite
+DDQN (tuned) hs,1448.1,False,,2015-09-22,frostbite
+Sarsa-ε,1394.3,False,,2017-06-25,frostbite
+CURL,924,False,,2020-04-08,frostbite
+DQN noop,797.4,False,,2015-09-22,frostbite
+CGP,782,False,,2018-06-14,frostbite
+MP-EB,507.0,False,,2015-07-03,frostbite
+DQN hs,496.1,False,,2015-09-22,frostbite
+Gorila,426.6,False,,2015-07-15,frostbite
+ES FF (1 hour) noop,370.0,False,,2017-03-10,frostbite
+Nature DQN,328.3,False,,,frostbite
+IMPALA (deep),317.75,False,,2018-02-05,frostbite
+POP3D,316.87,False,,2018-07-02,frostbite
+IDVQ + DRSC + XNES,300,False,,2018-06-04,frostbite
+UCT,270.5,False,,2012-07-19,frostbite
+Best Learner,216.9,False,,2012-07-19,frostbite
+A3C LSTM hs,197.6,False,,2016-02-04,frostbite
+A3C FF hs,190.5,False,,2016-02-04,frostbite
+SARSA,180.9,False,,,frostbite
+A3C FF (1 day) hs,180.1,False,,2016-02-04,frostbite
+SAC,59.4,False,,2019-10-16,frostbite
+Agent57,24034.16,False,,2020-03-30,kangaroo
+MuZero,16763.60,False,,2019-11-19,kangaroo
+Prior noop,16200.0,False,,2015-11-18,kangaroo
+IQN,15487,False,,2018-06-14,kangaroo
+QR-DQN-1,15356,False,,2017-10-27,kangaroo
+NoisyNet-Dueling,15227,False,,2017-06-30,kangaroo
+Bootstrapped DQN,14862.5,False,,2016-02-15,kangaroo
+Duel noop,14854.0,False,,2015-11-20,kangaroo
+R2D2,14130.7,False,,2019-05-01,kangaroo
+MuZero (Res2 Adam),13838,False,,2021-04-13,kangaroo
+DDQN+Pop-Art noop,13150.0,False,,2016-02-24,kangaroo
+DDQN (tuned) noop,12992.0,False,,2015-11-20,kangaroo
+C51 noop,12853.0,False,,2017-07-21,kangaroo
+Prior hs,12185.0,False,,2015-11-18,kangaroo
+Persistent AL,11478.46,False,,2015-12-15,kangaroo
+DDQN (tuned) hs,11204.0,False,,2015-09-22,kangaroo
+ES FF (1 hour) noop,11200.0,False,,2017-03-10,kangaroo
+Advantage Learning,10809.16,False,,2015-12-15,kangaroo
+Duel hs,10334.0,False,,2015-11-20,kangaroo
+DreamerV2,9020,False,,2020-10-05,kangaroo
+DQN noop,7259.0,False,,2015-09-22,kangaroo
+Nature DQN,6740.0,False,,,kangaroo
+Recurrent Rational DQN Average,5266,False,,2021-02-18,kangaroo
+DQN hs,4496.0,False,,2015-09-22,kangaroo
+POP3D,3891.67,False,,2018-07-02,kangaroo
+Rational DQN Average,2941,False,,2021-02-18,kangaroo
+A2C + SIL,2888.3,False,,2018-06-14,kangaroo
+UCT,1990,False,,2012-07-19,kangaroo
+Prior+Duel noop,1792.0,False,,2015-11-20,kangaroo
+IMPALA (deep),1632.00,False,,2018-02-05,kangaroo
+Best Learner,1622.1,False,,2012-07-19,kangaroo
+Gorila,1431.0,False,,2015-07-15,kangaroo
+Ape-X,1416,False,,2018-03-02,kangaroo
+CGP,1400,False,,2018-06-14,kangaroo
+IDVQ + DRSC + XNES,1200,False,,2018-06-04,kangaroo
+Prior+Duel hs,861.0,False,,2015-09-22,kangaroo
+CURL,345.3,False,,2020-04-08,kangaroo
+A3C LSTM hs,125.0,False,,2016-02-04,kangaroo
+A3C FF (1 day) hs,106.0,False,,2016-02-04,kangaroo
+A3C FF hs,94.0,False,,2016-02-04,kangaroo
+SAC,29.3,False,,2019-10-16,kangaroo
+SARSA,8.8,False,,,kangaroo
+Agent57,19213.96,False,,2020-03-30,gravitar
+R2D2,15680.7,False,,2019-05-01,gravitar
+MuZero (Res2 Adam),8006.93,False,,2021-04-13,gravitar
+Go-Explore,7588,False,,2020-04-27,gravitar
+MuZero,6682.70,False,,2019-11-19,gravitar
+DreamerV2,4855,False,,2020-10-05,gravitar
+RND,3906,False,,2018-10-30,gravitar
+UCT,2850,False,,2012-07-19,gravitar
+CGP,2350,False,,2018-06-14,gravitar
+NoisyNet-Dueling,2209,False,,2017-06-30,gravitar
+A2C + SIL,1874.2,False,,2018-06-14,gravitar
+Ape-X,1598.5,False,,2018-03-02,gravitar
+FQF,1406.0,False,,2019-11-05,gravitar
+Intrinsic Reward Agent,1165.1,False,,2018-08-13,gravitar
+DQNMMCe,1078.3,False,,2018-07-31,gravitar
+QR-DQN-1,995,False,,2017-10-27,gravitar
+IQN,911,False,,2018-06-14,gravitar
+ES FF (1 hour) noop,805.0,False,,2017-03-10,gravitar
+Duel noop,588.0,False,,2015-11-20,gravitar
+POP3D,557.17,False,,2018-07-02,gravitar
+Prior noop,548.5,False,,2015-11-18,gravitar
+Gorila,538.4,False,,2015-07-15,gravitar
+DQN-PixelCNN,498.3,False,,2017-03-03,gravitar
+DDQN+Pop-Art noop,483.5,False,,2016-02-24,gravitar
+DQN noop,473.0,False,,2015-09-22,gravitar
+Persistent AL,446.92,False,,2015-12-15,gravitar
+C51 noop,440.0,False,,2017-07-21,gravitar
+SARSA,429.0,False,,,gravitar
+Advantage Learning,417.65,False,,2015-12-15,gravitar
+DDQN (tuned) noop,412.0,False,,2015-11-20,gravitar
+Best Learner,387.7,False,,2012-07-19,gravitar
+IMPALA (deep),359.50,False,,2018-02-05,gravitar
+A3C LSTM hs,320.0,False,,2016-02-04,gravitar
+Nature DQN,306.7,False,,,gravitar
+A3C FF hs,303.5,False,,2016-02-04,gravitar
+DQN hs,298.0,False,,2015-09-22,gravitar
+Duel hs,297.0,False,,2015-11-20,gravitar
+Bootstrapped DQN,286.1,False,,2016-02-15,gravitar
+Prior hs,269.5,False,,2015-11-18,gravitar
+A3C FF (1 day) hs,269.5,False,,2016-02-04,gravitar
+A3C-CTS,238.68,False,,2016-06-06,gravitar
+Prior+Duel noop,238.0,False,,2015-11-20,gravitar
+DQN-CTS,238.0,False,,2017-03-03,gravitar
+DDQN (tuned) hs,200.5,False,,2015-09-22,gravitar
+Prior+Duel hs,167.0,False,,2015-09-22,gravitar
+MuZero,100.00,False,,2019-11-19,boxing
+Ape-X,100,False,,2018-03-02,boxing
+NoisyNet-Dueling,100,False,,2017-06-30,boxing
+UCT,100,False,,2012-07-19,boxing
+Agent57,100,False,,2020-03-30,boxing
+MuZero (Res2 Adam),100,False,,2021-04-13,boxing
+IMPALA (deep),99.96,False,,2018-02-05,boxing
+QR-DQN-1,99.9,False,,2017-10-27,boxing
+IQN,99.8,False,,2018-06-14,boxing
+A2C + SIL,99.6,False,,2018-06-14,boxing
+Duel noop,99.4,False,,2015-11-20,boxing
+Reactor 500M,99.4,False,,2017-04-15,boxing
+DDQN+Pop-Art noop,99.3,False,,2016-02-24,boxing
+Prior+Duel noop,98.9,False,,2015-11-20,boxing
+R2D2,98.5,False,,2019-05-01,boxing
+DDRL A3C,98,False,,2018-01-09,boxing
+C51 noop,97.8,False,,2017-07-21,boxing
+POP3D,97.23,False,,2018-07-02,boxing
+Prior noop,95.6,False,,2015-11-18,boxing
+Persistent AL,94.3,False,,2015-12-15,boxing
+Advantage Learning,93.94,False,,2015-12-15,boxing
+Bootstrapped DQN,93.2,False,,2016-02-15,boxing
+DDQN (tuned) noop,91.6,False,,2015-11-20,boxing
+DQN noop,88.0,False,,2015-09-22,boxing
+DreamerV2,82,False,,2020-10-05,boxing
+Prior+Duel hs,79.2,False,,2015-09-22,boxing
+Duel hs,77.3,False,,2015-11-20,boxing
+Gorila,74.2,False,,2015-07-15,boxing
+DDQN (tuned) hs,73.5,False,,2015-09-22,boxing
+Prior hs,72.3,False,,2015-11-18,boxing
+Nature DQN,71.8,False,,,boxing
+DQN hs,70.3,False,,2015-09-22,boxing
+A3C FF hs,59.8,False,,2016-02-04,boxing
+ES FF (1 hour) noop,49.8,False,,2017-03-10,boxing
+Best Learner,44,False,,2012-07-19,boxing
+CGP,38.4,False,,2018-06-14,boxing
+A3C LSTM hs,37.3,False,,2016-02-04,boxing
+A3C FF (1 day) hs,33.7,False,,2016-02-04,boxing
+SARSA,9.8,False,,,boxing
+CURL,4.8,False,,2020-04-08,boxing
+NoisyNet-Dueling,10,False,,2017-06-30,surround
+MuZero,9.99,False,,2019-11-19,surround
+R2D2,9.9,False,,2019-05-01,surround
+MuZero (Res2 Adam),9.9,False,,2021-04-13,surround
+Agent57,9.5,False,,2020-03-30,surround
+IQN,9.4,False,,2018-06-14,surround
+QR-DQN-1,8.2,False,,2017-10-27,surround
+IMPALA (deep),7.56,False,,2018-02-05,surround
+Ape-X,7.1,False,,2018-03-02,surround
+Persistent AL,0.72,False,,2015-12-15,surround
+Agent57,2354.91,False,,2020-03-30,tutankham
+MuZero,491.48,False,,2019-11-19,tutankham
+R2D2,395.3,False,,2019-05-01,tutankham
+MuZero (Res2 Adam),347.99,False,,2021-04-13,tutankham
+A2C + SIL,340.5,False,,2018-06-14,tutankham
+QR-DQN-1,297,False,,2017-10-27,tutankham
+IQN,293,False,,2018-06-14,tutankham
+IMPALA (deep),292.11,False,,2018-02-05,tutankham
+C51 noop,280.0,False,,2017-07-21,tutankham
+Ape-X,272.6,False,,2018-03-02,tutankham
+NoisyNet-Dueling,269,False,,2017-06-30,tutankham
+Prior+Duel noop,245.9,False,,2015-11-20,tutankham
+Advantage Learning,245.22,False,,2015-12-15,tutankham
+POP3D,241.21,False,,2018-07-02,tutankham
+DreamerV2,235,False,,2020-10-05,tutankham
+UCT,225.5,False,,2012-07-19,tutankham
+DDQN (tuned) noop,218.4,False,,2015-11-20,tutankham
+Bootstrapped DQN,214.8,False,,2016-02-15,tutankham
+Duel noop,211.4,False,,2015-11-20,tutankham
+Prior noop,204.6,False,,2015-11-18,tutankham
+DARQN soft,197,False,,2015-12-05,tutankham
+Nature DQN,186.7,False,,,tutankham
+Recurrent Rational DQN Average,184,False,,2021-02-18,tutankham
+DDQN+Pop-Art noop,183.9,False,,2016-02-24,tutankham
+Rational DQN Average,179,False,,2021-02-18,tutankham
+A3C FF hs,156.3,False,,2016-02-04,tutankham
+A3C LSTM hs,144.2,False,,2016-02-04,tutankham
+ES FF (1 hour) noop,130.3,False,,2017-03-10,tutankham
+Gorila,118.5,False,,2015-07-15,tutankham
+Best Learner,114.3,False,,2012-07-19,tutankham
+Prior+Duel hs,108.6,False,,2015-09-22,tutankham
+SARSA,98.2,False,,,tutankham
+DDQN (tuned) hs,92.2,False,,2015-09-22,tutankham
+DQN noop,68.1,False,,2015-09-22,tutankham
+Prior hs,56.9,False,,2015-11-18,tutankham
+Duel hs,48.0,False,,2015-11-20,tutankham
+DQN hs,45.6,False,,2015-09-22,tutankham
+A3C FF (1 day) hs,26.1,False,,2016-02-04,tutankham
+CGP,0,False,,2018-06-14,tutankham
+Agent57,135784.96,False,,2020-03-30,james bond
+FQF,87291.7,False,,2019-11-05,james bond
+MuZero,41063.25,False,,2019-11-19,james bond
+IQN,35108,False,,2018-06-14,james bond
+MuZero (Res2 Adam),28626.23,False,,2021-04-13,james bond
+R2D2,25354.0,False,,2019-05-01,james bond
+Ape-X,21322.5,False,,2018-03-02,james bond
+DreamerV2,17614,False,,2020-10-05,james bond
+CGP,6130,False,,2018-06-14,james bond
+Prior noop,5148.0,False,,2015-11-18,james bond
+QR-DQN-1,4703,False,,2017-10-27,james bond
+Prior hs,3961.0,False,,2015-11-18,james bond
+C51 noop,1909.0,False,,2017-07-21,james bond
+Bootstrapped DQN,1663.5,False,,2016-02-15,james bond
+DDQN (tuned) noop,1358.0,False,,2015-11-20,james bond
+Duel noop,1312.5,False,,2015-11-20,james bond
+Recurrent Rational DQN Average,1137,False,,2021-02-18,james bond
+Rational DQN Average,1122,False,,2021-02-18,james bond
+Advantage Learning,848.46,False,,2015-12-15,james bond
+Duel hs,835.5,False,,2015-11-20,james bond
+Prior+Duel noop,812.0,False,,2015-11-20,james bond
+Persistent AL,772.09,False,,2015-12-15,james bond
+DQN noop,768.5,False,,2015-09-22,james bond
+DQN hs,697.5,False,,2015-09-22,james bond
+A3C LSTM hs,613.0,False,,2016-02-04,james bond
+IMPALA (deep),601.50,False,,2018-02-05,james bond
+Prior+Duel hs,585.0,False,,2015-09-22,james bond
+Nature DQN,576.7,False,,,james bond
+DDQN (tuned) hs,573.0,False,,2015-09-22,james bond
+A3C FF hs,541.0,False,,2016-02-04,james bond
+DDQN+Pop-Art noop,507.5,False,,2016-02-24,james bond
+Gorila,444.0,False,,2015-07-15,james bond
+POP3D,358.54,False,,2018-07-02,james bond
+SARSA,354.1,False,,,james bond
+A3C FF (1 day) hs,351.5,False,,2016-02-04,james bond
+UCT,330,False,,2012-07-19,james bond
+A2C + SIL,310.8,False,,2018-06-14,james bond
+Best Learner,202.8,False,,2012-07-19,james bond
+SAC,68.3,False,,2019-10-16,james bond
+Agent57,839573.53,False,,2020-03-30,star gunner
+R2D2,717344.0,False,,2019-05-01,star gunner
+MuZero,549271.70,False,,2019-11-19,star gunner
+Ape-X,434342.5,False,,2018-03-02,star gunner
+IMPALA (deep),200625.00,False,,2018-02-05,star gunner
+A3C LSTM hs,164766.0,False,,2016-02-04,star gunner
+MuZero (Res2 Adam),154548.26,False,,2021-04-13,star gunner
+A3C FF hs,138218.0,False,,2016-02-04,star gunner
+FQF,131981.2,False,,2019-11-05,star gunner
+Prior+Duel hs,127073.0,False,,2015-09-22,star gunner
+Prior+Duel noop,125117.0,False,,2015-11-20,star gunner
+Duel hs,90804.0,False,,2015-11-20,star gunner
+Duel noop,89238.0,False,,2015-11-20,star gunner
+QR-DQN-1,77495,False,,2017-10-27,star gunner
+NoisyNet-Dueling,75867,False,,2017-06-30,star gunner
+IQN,74677,False,,2018-06-14,star gunner
+RIMs-PPO,70000,False,,,star gunner
+A3C FF (1 day) hs,64393.0,False,,2016-02-04,star gunner
+Prior noop,63302.0,False,,2015-11-18,star gunner
+Prior hs,61582.0,False,,2015-11-18,star gunner
+Advantage Learning,61353.59,False,,2015-12-15,star gunner
+DDQN (tuned) noop,60142.0,False,,2015-11-20,star gunner
+DDQN (tuned) hs,58365.0,False,,2015-09-22,star gunner
+Nature DQN,57997.0,False,,,star gunner
+Bootstrapped DQN,55725,False,,2016-02-15,star gunner
+DQN noop,54282.0,False,,2015-09-22,star gunner
+DQN hs,52970.0,False,,2015-09-22,star gunner
+C51 noop,49095.0,False,,2017-07-21,star gunner
+POP3D,48984,False,,2018-07-02,star gunner
+A2C + SIL,31309.2,False,,2018-06-14,star gunner
+DreamerV2,20280,False,,2020-10-05,star gunner
+Gorila,14919.2,False,,2015-07-15,star gunner
+CGP,2320,False,,2018-06-14,star gunner
+ES FF (1 hour) noop,1470.0,False,,2017-03-10,star gunner
+Full Tree,1345,False,,2012-07-19,star gunner
+Best Learner,1069.5,False,,2012-07-19,star gunner
+DDQN+Pop-Art noop,589.0,False,,2016-02-24,star gunner
+SARSA,9.4,False,,,star gunner
+MuZero,260.13,False,,2019-11-19,bowling
+Go-Explore,260,False,,2020-04-27,bowling
+Agent57,251.18,False,,2020-03-30,bowling
+R2D2,219.5,False,,2019-05-01,bowling
+RUDDER,179,False,,2018-06-20,bowling
+MuZero (Res2 Adam),131.65,False,,2021-04-13,bowling
+FQF,102.3,False,,2019-11-05,bowling
+DDQN+Pop-Art noop,102.1,False,,2016-02-24,bowling
+IQN,86.5,False,,2018-06-14,bowling
+CGP,85.8,False,,2018-06-14,bowling
+C51 noop,81.8,False,,2017-07-21,bowling
+Reactor 500M,81.0,False,,2017-04-15,bowling
+QR-DQN-1,77.2,False,,2017-10-27,bowling
+Persistent AL,71.59,False,,2015-12-15,bowling
+DDQN (tuned) hs,69.6,False,,2015-09-22,bowling
+DDQN (tuned) noop,68.1,False,,2015-11-20,bowling
+Duel hs,65.7,False,,2015-11-20,bowling
+Duel noop,65.5,False,,2015-11-20,bowling
+Bootstrapped DQN,60.2,False,,2016-02-15,bowling
+IMPALA (deep),59.92,False,,2018-02-05,bowling
+Advantage Learning,57.41,False,,2015-12-15,bowling
+DQN hs,56.5,False,,2015-09-22,bowling
+Gorila,54,False,,2015-07-15,bowling
+Prior hs,52,False,,2015-11-18,bowling
+DQN noop,50.4,False,,2015-09-22,bowling
+Prior+Duel hs,50.4,False,,2015-09-22,bowling
+Prior noop,47.9,False,,2015-11-18,bowling
+Prior+Duel noop,46.7,False,,2015-11-20,bowling
+Best Learner,43.9,False,,2012-07-19,bowling
+Nature DQN,42.4,False,,,bowling
+A3C LSTM hs,41.8,False,,2016-02-04,bowling
+POP3D,38.99,False,,2018-07-02,bowling
+SARSA,36.4,False,,,bowling
+A3C FF (1 day) hs,36.2,False,,2016-02-04,bowling
+A3C FF hs,35.1,False,,2016-02-04,bowling
+DreamerV2,32,False,,2020-10-05,bowling
+A2C + SIL,31.1,False,,2018-06-14,bowling
+ES FF (1 hour) noop,30,False,,2017-03-10,bowling
+Ape-X,17.6,False,,2018-03-02,bowling
+Go-Explore,1422628,False,,2020-04-27,centipede
+MuZero,1159049.27,False,,2019-11-19,centipede
+MuZero (Res2 Adam),874301.64,False,,2021-04-13,centipede
+R2D2,599140.3,False,,2019-05-01,centipede
+Agent57,412847.86,False,,2020-03-30,centipede
+Full Tree,125123,False,,2012-07-19,centipede
+DDQN+Pop-Art noop,49065.8,False,,2016-02-24,centipede
+CGP,24708,False,,2018-06-14,centipede
+Ape-X,12974,False,,2018-03-02,centipede
+QR-DQN-1,12447,False,,2017-10-27,centipede
+IQN,11561,False,,2018-06-14,centipede
+IMPALA (deep),11049.75,False,,2018-02-05,centipede
+C51 noop,9646.0,False,,2017-07-21,centipede
+Best Learner,8803.8,False,,2012-07-19,centipede
+Nature DQN,8309.0,False,,,centipede
+ES FF (1 hour) noop,7783.9,False,,2017-03-10,centipede
+Prior+Duel noop,7687.5,False,,2015-11-20,centipede
+NoisyNet-Dueling,7596,False,,2017-06-30,centipede
+Duel noop,7561.4,False,,2015-11-20,centipede
+A2C + SIL,7559.5,False,,2018-06-14,centipede
+Gorila,6296.9,False,,2015-07-15,centipede
+Prior+Duel hs,5570.2,False,,2015-09-22,centipede
+DDQN (tuned) noop,5409.4,False,,2015-11-20,centipede
+DreamerV2,4898,False,,2020-10-05,centipede
+Duel hs,4881.0,False,,2015-11-20,centipede
+DQN noop,4657.7,False,,2015-09-22,centipede
+SARSA,4647.0,False,,,centipede
+Bootstrapped DQN,4553.5,False,,2016-02-15,centipede
+Persistent AL,4539.55,False,,2015-12-15,centipede
+Prior noop,4463.2,False,,2015-11-18,centipede
+Advantage Learning,4225.18,False,,2015-12-15,centipede
+DQN hs,3973.9,False,,2015-09-22,centipede
+DDQN (tuned) hs,3853.5,False,,2015-09-22,centipede
+A3C FF hs,3755.8,False,,2016-02-04,centipede
+Prior hs,3489.1,False,,2015-11-18,centipede
+Reactor 500M,3422.0,False,,2017-04-15,centipede
+POP3D,3315.44,False,,2018-07-02,centipede
+A3C FF (1 day) hs,3306.5,False,,2016-02-04,centipede
+A3C LSTM hs,1997.0,False,,2016-02-04,centipede
+Ape-X,23.9,False,,2018-03-02,tennis
+Agent57,23.84,False,,2020-03-30,tennis
+IQN,23.6,False,,2018-06-14,tennis
+QR-DQN-1,23.6,False,,2017-10-27,tennis
+C51 noop,23.1,False,,2017-07-21,tennis
+DreamerV2,21,False,,2020-10-05,tennis
+Recurrent Rational DQN Average,20.6,False,,2021-02-18,tennis
+Rational DQN Average,20.5,False,,2021-02-18,tennis
+DQN noop,12.2,False,,2015-09-22,tennis
+DDQN+Pop-Art noop,12.1,False,,2016-02-24,tennis
+DQN hs,11.1,False,,2015-09-22,tennis
+Duel noop,5.1,False,,2015-11-20,tennis
+Duel hs,4.4,False,,2015-11-20,tennis
+UCT,2.8,False,,2012-07-19,tennis
+IMPALA (deep),0.55,False,,2018-02-05,tennis
+SARSA,0.0,False,,,tennis
+Prior noop,0.0,False,,2015-11-18,tennis
+Prior+Duel noop,0.0,False,,2015-11-20,tennis
+Bootstrapped DQN,0,False,,2016-02-15,tennis
+MuZero,0.00,False,,2019-11-19,tennis
+CGP,0,False,,2018-06-14,tennis
+NoisyNet-Dueling,0,False,,2017-06-30,tennis
+Advantage Learning,0,False,,2015-12-15,tennis
+MuZero (Res2 Adam),0,False,,2021-04-13,tennis
+Nature DQN,-2.5,False,,,tennis
+Gorila,-0.7,False,,2015-07-15,tennis
+DDQN (tuned) noop,-22.8,False,,2015-11-20,tennis
+DDQN (tuned) hs,-7.8,False,,2015-09-22,tennis
+Prior+Duel hs,-13.2,False,,2015-09-22,tennis
+Prior hs,-5.3,False,,2015-11-18,tennis
+A3C FF hs,-6.3,False,,2016-02-04,tennis
+A3C LSTM hs,-6.4,False,,2016-02-04,tennis
+A3C FF (1 day) hs,-10.2,False,,2016-02-04,tennis
+ES FF (1 hour) noop,-4.5,False,,2017-03-10,tennis
+R2D2,-0.1,False,,2019-05-01,tennis
+Best Learner,-0.1,False,,2012-07-19,tennis
+POP3D,-8.32,False,,2018-07-02,tennis
+A2C + SIL,-17.3,False,,2018-06-14,tennis
